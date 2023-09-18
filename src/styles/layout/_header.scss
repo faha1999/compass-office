@@ -1,0 +1,21 @@
+.navbar {
+  background-color: var(--black-soft);
+
+  .logo {
+    width: 3rem;
+  }
+
+  .nav-link {
+    color: var(--white);
+
+    &:focus,
+    &:focus-visible {
+      color: var(--offWhite);
+    }
+
+    &.active {
+      color: var(--skyBlue-light);
+      font-weight: 500;
+    }
+  }
+}
