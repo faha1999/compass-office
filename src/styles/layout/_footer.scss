@@ -1,0 +1,19 @@
+footer {
+  background-color: var(--black-soft);
+
+  a {
+    color: var(--white);
+
+    &:hover {
+      color: var(--skyBlue-light);
+    }
+  }
+
+  svg {
+    font-size: 1.5rem;
+
+    &:hover {
+      color: var(--skyBlue-light);
+    }
+  }
+}
