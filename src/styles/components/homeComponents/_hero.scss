@@ -1,0 +1,23 @@
+.hero {
+  .bg-image {
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 30rem;
+    background-position: center;
+  }
+  .hero-text {
+    text-align: center;
+    color: var(--white);
+    height: 30rem;
+    background-color: #1515146e;
+    padding-top: 10rem;
+
+    h1 {
+      font-size: 4.125rem;
+    }
+
+    p {
+      font-size: 1.225rem;
+    }
+  }
+}
