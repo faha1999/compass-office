@@ -38,6 +38,12 @@ export const Header = () => {
             <ul class="navbar-nav">
               <li class="nav-item">
                 <Link class="nav-link active" aria-current="page" href="#">
+                  Home
+                </Link>
+              </li>
+
+              <li class="nav-item">
+                <Link class="nav-link" aria-current="page" href="#">
                   About us
                 </Link>
               </li>
