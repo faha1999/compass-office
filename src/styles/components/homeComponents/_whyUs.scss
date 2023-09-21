@@ -1,0 +1,22 @@
+.whyUs {
+  .text-justify {
+    text-align: justify;
+  }
+
+  .image {
+    margin-left: auto;
+  }
+
+  .whyUs-content {
+    a {
+      font-size: 1.5rem;
+      color: var(--skyBlue-light);
+      font-weight: 700;
+      padding-bottom: 0.7rem;
+
+      &:hover {
+        text-decoration: underline;
+      }
+    }
+  }
+}

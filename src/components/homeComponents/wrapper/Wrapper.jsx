@@ -7,7 +7,7 @@ import { Link } from 'react-router-dom';
 export const Wrapper = () => {
   return (
     <>
-      <div className="wrapper pt-4 pb-4">
+      <div className="wrapper mt-4 pt-4 pb-4">
         <div className="container-fluid">
           <div className="row">
             <Link className="col-3 p-3 wrapperCard">
