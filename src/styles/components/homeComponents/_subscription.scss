@@ -1,0 +1,32 @@
+.subscription {
+  padding: 0;
+  background-color: #007a33;
+  background-image: url('../../../assets/images/hand.png');
+  background-size: initial;
+  background-repeat: no-repeat;
+  background-position: center 13%;
+
+  .height {
+    height: 18rem;
+  }
+
+  .left {
+    padding-top: 8rem;
+    h1 {
+      font-size: 2rem;
+      font-weight: 700;
+    }
+  }
+
+  .right {
+    padding-top: 8rem;
+
+    a {
+      padding: 0.5rem 2rem;
+      border: 0.125rem solid var(--skyBlue-light);
+      font-weight: 700;
+      font-size: 1.5rem;
+      color: var(--white);
+    }
+  }
+}

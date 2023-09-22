@@ -4,6 +4,7 @@ import { About } from '../components/homeComponents/About/About';
 import { Wrapper } from '../components/homeComponents/wrapper/Wrapper';
 import { WhyUs } from '../components/homeComponents/whyUs/WhyUs';
 import { WhatWeOffer } from '../components/homeComponents/whatWeOffer/WhatWeOffer';
+import { Subscription } from '../components/homeComponents/subscription/Subscription';
 
 export const Home = () => {
   return (
@@ -13,6 +14,7 @@ export const Home = () => {
       <Wrapper />
       <WhyUs />
       <WhatWeOffer />
+      <Subscription />
     </>
   );
 };
