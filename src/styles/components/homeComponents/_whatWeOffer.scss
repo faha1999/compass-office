@@ -1,0 +1,21 @@
+.WhatWeOffer {
+  background-color: var(--offWhite);
+
+  .headLine {
+    font-size: 1.625rem;
+    color: var(--skyBlue-light);
+    font-weight: 700;
+
+    &:hover {
+      text-decoration: underline;
+      transition: 0.4s ease-in-out;
+    }
+  }
+
+  img {
+    width: 100%;
+    border-top-right-radius: 100px;
+    border-top-left-radius: 100px;
+    border-bottom-right-radius: 100px;
+  }
+}
