@@ -5,6 +5,7 @@ import { Wrapper } from '../components/homeComponents/wrapper/Wrapper';
 import { WhyUs } from '../components/homeComponents/whyUs/WhyUs';
 import { WhatWeOffer } from '../components/homeComponents/whatWeOffer/WhatWeOffer';
 import { Subscription } from '../components/homeComponents/subscription/Subscription';
+import { LatestNews } from '../components/homeComponents/latestNews/LatestNews';
 
 export const Home = () => {
   return (
@@ -15,6 +16,7 @@ export const Home = () => {
       <WhyUs />
       <WhatWeOffer />
       <Subscription />
+      <LatestNews />
     </>
   );
 };
