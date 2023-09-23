@@ -34,6 +34,78 @@ footer {
   }
 }
 
+.FooterMiddle {
+  background-color: var(--black-dark);
+
+  h1 {
+    font-size: 1.625rem;
+    font-weight: 700;
+  }
+
+  img {
+    height: 6rem;
+    margin: 0 auto;
+  }
+
+  p {
+    text-align: justify;
+  }
+
+  .recentPostContent {
+    .img {
+      margin-right: 1rem;
+
+      svg {
+        font-size: 5rem;
+        background-color: var(--white);
+        padding: 1rem;
+        border-radius: 50%;
+        color: var(--skyBlue-light);
+      }
+    }
+
+    .date {
+      color: var(--light-gray);
+      font-weight: 500;
+    }
+  }
+
+  .contactForm {
+    .form-floating {
+      * {
+        background-color: transparent;
+      }
+    }
+    input {
+      background-color: var(--black-dark) !important;
+      color: var(--white);
+      outline: none;
+      height: 2rem;
+      // background-color: transparent;
+    }
+
+    label {
+      color: var(--white);
+      background-color: transparent !important;
+    }
+  }
+
+  .button {
+    width: 100%;
+    background-color: var(--skyBlue-light);
+    text-align: center;
+    color: var(--white);
+    padding: 0.5rem 0;
+    font-size: 1rem;
+    font-weight: 500;
+
+    &:hover {
+      opacity: 0.9;
+      transition: 0.3s ease;
+    }
+  }
+}
+
 .FooterBottom {
   background-color: var(--black-soft);
 
