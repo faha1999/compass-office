@@ -1,17 +1,43 @@
 footer {
-  background-color: var(--black-soft);
+  svg {
+    font-size: 1.5rem;
+  }
+}
+
+.FooterTop {
+  background-color: var(--offWhite);
+
+  h1 {
+    font-size: 3.75rem;
+  }
 
   a {
-    color: var(--white);
+    color: var(--skyBlue-light);
 
     &:hover {
-      color: var(--skyBlue-light);
+      text-decoration: underline;
     }
   }
 
-  svg {
-    font-size: 1.5rem;
+  .contactInfo {
+    svg {
+      margin-right: 0.7rem;
+    }
+  }
 
+  .socialIcons {
+    a {
+      &:hover {
+        opacity: 0.7;
+      }
+    }
+  }
+}
+
+.FooterBottom {
+  background-color: var(--black-soft);
+
+  svg {
     &:hover {
       color: var(--skyBlue-light);
     }
