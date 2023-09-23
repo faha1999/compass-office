@@ -24,7 +24,7 @@ export const About = () => {
             <div
               className="col-4"
               style={{
-                'background-image':
+                backgroundImage:
                   'url(https://images.unsplash.com/photo-1531545514256-b1400bc00f31?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8YWJvdXQlMjB1c3xlbnwwfDB8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60)',
                 borderRadius: '1rem',
               }}

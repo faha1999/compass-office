@@ -64,7 +64,7 @@ export const FooterMiddle = () => {
                   id="floatingInput"
                   placeholder="Your Name"
                 />
-                <label for="floatingInput">Name</label>
+                <label htmlFor="floatingInput">Name</label>
               </div>
 
               <div className="form-floating mb-3">
@@ -74,7 +74,7 @@ export const FooterMiddle = () => {
                   id="floatingInput"
                   placeholder="info@uae-copier.com"
                 />
-                <label for="floatingInput">Email</label>
+                <label htmlFor="floatingInput">Email</label>
               </div>
 
               <div className="form-floating mb-3">
@@ -84,17 +84,17 @@ export const FooterMiddle = () => {
                   id="floatingPassword"
                   placeholder="Number"
                 />
-                <label for="floatingPassword">Number</label>
+                <label htmlFor="floatingPassword">Number</label>
               </div>
 
-              <div class="form-floating mb-3">
+              <div className="form-floating mb-3">
                 <textarea
-                  class="form-control"
+                  className="form-control"
                   placeholder="Leave your message here"
                   id="floatingTextarea2"
                   style={{ height: '100px' }}
                 ></textarea>
-                <label for="floatingTextarea2">Message</label>
+                <label htmlFor="floatingTextarea2">Message</label>
               </div>
 
               <Link className="button mt-3">Send</Link>

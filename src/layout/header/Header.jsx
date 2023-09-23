@@ -11,15 +11,15 @@ export const Header = () => {
 
   return (
     <>
-      <navbar class="navbar navbar-expand-lg text-white">
-        <div class="container-fluid">
-          <Link to="/" class="navbar-brand" href="#">
+      <navbar className="navbar navbar-expand-lg text-white">
+        <div className="container-fluid">
+          <Link to="/" className="navbar-brand" href="#">
             <img className="logo" src={logo} alt="uaecopier" />
           </Link>
 
           {/* Toggler */}
           <button
-            class="navbar-toggler"
+            className="navbar-toggler"
             type="button"
             data-bs-toggle="collapse"
             data-bs-target="#navbarNavDropdown"
@@ -27,30 +27,30 @@ export const Header = () => {
             aria-expanded="false"
             aria-label="Toggle navigation"
           >
-            <span class="navbar-toggler-icon"></span>
+            <span className="navbar-toggler-icon"></span>
           </button>
 
           {/* Menubar */}
           <nav
-            class="collapse navbar-collapse flex-row-reverse"
+            className="collapse navbar-collapse flex-row-reverse"
             id="navbarNavDropdown"
           >
-            <ul class="navbar-nav">
-              <li class="nav-item">
-                <Link class="nav-link active" aria-current="page" href="#">
+            <ul className="navbar-nav">
+              <li className="nav-item">
+                <Link className="nav-link active" aria-current="page" href="#">
                   Home
                 </Link>
               </li>
 
-              <li class="nav-item">
-                <Link class="nav-link" aria-current="page" href="#">
+              <li className="nav-item">
+                <Link className="nav-link" aria-current="page" href="#">
                   About us
                 </Link>
               </li>
 
-              <li class="nav-item dropdown">
+              <li className="nav-item dropdown">
                 <Link
-                  class="nav-link dropdown-toggle"
+                  className="nav-link dropdown-toggle"
                   href="#"
                   role="button"
                   data-bs-toggle="dropdown"
@@ -58,28 +58,28 @@ export const Header = () => {
                 >
                   Benefits
                 </Link>
-                <ul class="dropdown-menu">
+                <ul className="dropdown-menu">
                   <li>
-                    <Link class="dropdown-item" href="#">
+                    <Link className="dropdown-item" href="#">
                       Benefits 1
                     </Link>
                   </li>
                   <li>
-                    <Link class="dropdown-item" href="#">
+                    <Link className="dropdown-item" href="#">
                       Another action
                     </Link>
                   </li>
                   <li>
-                    <Link class="dropdown-item" href="#">
+                    <Link className="dropdown-item" href="#">
                       Something else here
                     </Link>
                   </li>
                 </ul>
               </li>
 
-              <li class="nav-item dropdown">
+              <li className="nav-item dropdown">
                 <Link
-                  class="nav-link dropdown-toggle"
+                  className="nav-link dropdown-toggle"
                   href="#"
                   role="button"
                   data-bs-toggle="dropdown"
@@ -87,28 +87,28 @@ export const Header = () => {
                 >
                   Services
                 </Link>
-                <ul class="dropdown-menu">
+                <ul className="dropdown-menu">
                   <li>
-                    <Link class="dropdown-item" href="#">
+                    <Link className="dropdown-item" href="#">
                       Services 1
                     </Link>
                   </li>
                   <li>
-                    <Link class="dropdown-item" href="#">
+                    <Link className="dropdown-item" href="#">
                       Another action
                     </Link>
                   </li>
                   <li>
-                    <Link class="dropdown-item" href="#">
+                    <Link className="dropdown-item" href="#">
                       Something else here
                     </Link>
                   </li>
                 </ul>
               </li>
 
-              <li class="nav-item dropdown">
+              <li className="nav-item dropdown">
                 <Link
-                  class="nav-link dropdown-toggle"
+                  className="nav-link dropdown-toggle"
                   href="#"
                   role="button"
                   data-bs-toggle="dropdown"
@@ -116,28 +116,28 @@ export const Header = () => {
                 >
                   Technology
                 </Link>
-                <ul class="dropdown-menu">
+                <ul className="dropdown-menu">
                   <li>
-                    <Link class="dropdown-item" href="#">
+                    <Link className="dropdown-item" href="#">
                       Technology 1
                     </Link>
                   </li>
                   <li>
-                    <Link class="dropdown-item" href="#">
+                    <Link className="dropdown-item" href="#">
                       Another action
                     </Link>
                   </li>
                   <li>
-                    <Link class="dropdown-item" href="#">
+                    <Link className="dropdown-item" href="#">
                       Something else here
                     </Link>
                   </li>
                 </ul>
               </li>
 
-              <li class="nav-item dropdown">
+              <li className="nav-item dropdown">
                 <Link
-                  class="nav-link dropdown-toggle"
+                  className="nav-link dropdown-toggle"
                   href="#"
                   role="button"
                   data-bs-toggle="dropdown"
@@ -145,41 +145,41 @@ export const Header = () => {
                 >
                   Enterprize
                 </Link>
-                <ul class="dropdown-menu">
+                <ul className="dropdown-menu">
                   <li>
-                    <Link class="dropdown-item" href="#">
+                    <Link className="dropdown-item" href="#">
                       Enterprize 1
                     </Link>
                   </li>
                   <li>
-                    <Link class="dropdown-item" href="#">
+                    <Link className="dropdown-item" href="#">
                       Another action
                     </Link>
                   </li>
                   <li>
-                    <Link class="dropdown-item" href="#">
+                    <Link className="dropdown-item" href="#">
                       Something else here
                     </Link>
                   </li>
                 </ul>
               </li>
 
-              <li class="nav-item">
-                <Link class="nav-link" href="#">
+              <li className="nav-item">
+                <Link className="nav-link" href="#">
                   News
                 </Link>
               </li>
 
-              <li class="nav-item">
-                <Link class="nav-link" href="#">
+              <li className="nav-item">
+                <Link className="nav-link" href="#">
                   Contact
                 </Link>
               </li>
 
               {/* Mobile dropdown */}
-              {/* <li class="nav-item ">
+              {/* <li className="nav-item ">
                 <Link
-                  class="nav-link"
+                  className="nav-link"
                   href="#"
                   role="button"
                   onClick={toggleVisibility}
@@ -187,19 +187,19 @@ export const Header = () => {
                   {isVisible ? 'Hide' : 'Show'}
                 </Link>
                 {isVisible && (
-                  <ul class="">
+                  <ul className="">
                     <li>
-                      <Link class="" href="#">
+                      <Link className="" href="#">
                         Action
                       </Link>
                     </li>
                     <li>
-                      <Link class="" href="#">
+                      <Link className="" href="#">
                         Another action
                       </Link>
                     </li>
                     <li>
-                      <Link class="" href="#">
+                      <Link className="" href="#">
                         Something else here
                       </Link>
                     </li>
@@ -208,9 +208,9 @@ export const Header = () => {
               </li> */}
 
               {/* dropdown Demo */}
-              {/* <li class="nav-item dropdown">
+              {/* <li className="nav-item dropdown">
                 <Link
-                  class="nav-link dropdown-toggle"
+                  className="nav-link dropdown-toggle"
                   href="#"
                   role="button"
                   data-bs-toggle="dropdown"
@@ -218,19 +218,19 @@ export const Header = () => {
                 >
                   Dropdown link
                 </Link>
-                <ul class="dropdown-menu">
+                <ul className="dropdown-menu">
                   <li>
-                    <Link class="dropdown-item" href="#">
+                    <Link className="dropdown-item" href="#">
                       Action
                     </Link>
                   </li>
                   <li>
-                    <Link class="dropdown-item" href="#">
+                    <Link className="dropdown-item" href="#">
                       Another action
                     </Link>
                   </li>
                   <li>
-                    <Link class="dropdown-item" href="#">
+                    <Link className="dropdown-item" href="#">
                       Something else here
                     </Link>
                   </li>
