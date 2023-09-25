@@ -72,6 +72,13 @@ footer {
 
   .contactForm {
     .form-floating {
+      .form-control {
+        box-shadow: 0 0 0 0.25rem rgba(13, 109, 253, 0) !important;
+      }
+      &:focus {
+        border-color: transparent !important;
+      }
+
       * {
         background-color: transparent;
       }

@@ -9,7 +9,7 @@ export const FooterMiddle = () => {
       <div className="FooterMiddle">
         <div className="container-fluid pt-4 pb-4">
           <div className="row">
-            <div className="col-4">
+            <div className="col-md-4 col-sm-12">
               <img src={logo} alt="logo" />
 
               <p className="text-white pt-3">
@@ -20,7 +20,7 @@ export const FooterMiddle = () => {
               </p>
             </div>
 
-            <div className="col-4">
+            <div className="col-md-4 col-sm-12 pt-xs-5 pt-sm-5 pt-md-0">
               <h1 className="text-white">RECENT POST</h1>
 
               <Link className="d-flex justify-content-between recentPostContent pt-3">
@@ -54,7 +54,7 @@ export const FooterMiddle = () => {
               </Link>
             </div>
 
-            <div className="col-4 contactForm">
+            <div className="col-md-4 col-sm-12 contactForm pt-xs-5 pt-sm-5 pt-md-0">
               <h1 className="text-white">EMAIL US</h1>
 
               <div className="form-floating mb-3 mt-3">
@@ -71,10 +71,10 @@ export const FooterMiddle = () => {
                 <input
                   type="email"
                   className="form-control"
-                  id="floatingInput"
+                  id="floatingInputEmail"
                   placeholder="info@uae-copier.com"
                 />
-                <label htmlFor="floatingInput">Email</label>
+                <label htmlFor="floatingInputEmail">Email</label>
               </div>
 
               <div className="form-floating mb-3">
