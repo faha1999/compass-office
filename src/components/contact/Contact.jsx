@@ -12,7 +12,7 @@ export const Contact = () => {
       <CurrentLocation title="Contact" />
 
       <div className="contact">
-        <div className="contactTop">
+        <div className="pageHero">
           <div className="img w-100 position-relative">
             <img
               className="w-100"

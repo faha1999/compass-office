@@ -10,3 +10,20 @@
   color: var(--skyBlue-light);
   font-weight: 700;
 }
+
+.pageHero {
+  .img {
+    img {
+      height: 30rem;
+    }
+  }
+  .content {
+    top: 40%;
+    left: 40%;
+
+    h1 {
+      font-size: 3.25rem;
+      font-weight: 700;
+    }
+  }
+}

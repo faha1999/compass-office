@@ -48,7 +48,12 @@ export const Header = () => {
               </li>
 
               <li className="nav-item">
-                <Link className="nav-link" aria-current="page" href="#">
+                <Link
+                  to="about-us"
+                  className="nav-link"
+                  aria-current="page"
+                  href="#"
+                >
                   About us
                 </Link>
               </li>
