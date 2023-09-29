@@ -10,7 +10,7 @@ import { Link } from 'react-router-dom';
 export const FooterTop = () => {
   return (
     <>
-      <div className="row FooterTop pt-5">
+      <div className="row FooterTop pt-5 pb-5">
         <div className="col-6 gap-3">
           <h1 className="text-center pb-3">CONTACT US</h1>
 
@@ -49,7 +49,7 @@ export const FooterTop = () => {
         </div>
 
         <div className="col-6">
-          <h1 className="text-center pb-3">CONTACT US</h1>
+          <h1 className="text-center pb-3">FOLLOW US</h1>
 
           <div className="d-flex justify-content-center gap-5 socialIcons">
             <div>

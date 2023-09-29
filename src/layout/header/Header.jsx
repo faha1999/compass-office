@@ -37,7 +37,12 @@ export const Header = () => {
           >
             <ul className="navbar-nav">
               <li className="nav-item">
-                <Link className="nav-link active" aria-current="page" href="#">
+                <Link
+                  to="/"
+                  className="nav-link active"
+                  aria-current="page"
+                  href="#"
+                >
                   Home
                 </Link>
               </li>
@@ -171,7 +176,7 @@ export const Header = () => {
               </li>
 
               <li className="nav-item">
-                <Link className="nav-link" href="#">
+                <Link to="/contact" className="nav-link" href="#">
                   Contact
                 </Link>
               </li>

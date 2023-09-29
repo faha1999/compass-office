@@ -1,0 +1,33 @@
+.contact {
+  .img {
+    img {
+      height: 30rem;
+    }
+  }
+  .content {
+    top: 40%;
+    left: 40%;
+
+    h1 {
+      font-size: 3.25rem;
+      font-weight: 700;
+    }
+  }
+
+  .contactDetails {
+    h1 {
+      font-size: 2.75rem;
+      font-weight: 500;
+      color: var(--skyBlue-light);
+    }
+
+    svg {
+      font-size: 8rem;
+      color: var(--skyBlue-light);
+    }
+
+    h2 {
+      font-size: 1.375rem;
+    }
+  }
+}
