@@ -4,31 +4,33 @@ import { CurrentLocation } from '../../layout/currentLocation/CurrentLocation';
 import { Link } from 'react-router-dom';
 import { AiTwotoneCustomerService } from 'react-icons/ai';
 
-export const Benefits = () => {
+export const Services = () => {
   const bgImg1 =
     'https://images.unsplash.com/photo-1579047917338-a6a69144fe63?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bWFuJTIwdGh1bXBzJTIwdXB8ZW58MHwxfDB8fHww&auto=format&fit=crop&w=500&q=60';
+
   return (
     <>
-      <div className="Benefits">
+      <Meta title={'Services us'} />
+
+      <div className="services">
         <div className="pageHero">
           <div className="img w-100 position-relative">
             <img
               className="w-100"
-              src="https://images.unsplash.com/photo-1516321497487-e288fb19713f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8cHJvZmVzc2lvbmFsfGVufDB8MHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60"
+              src="https://plus.unsplash.com/premium_photo-1680037568964-6d0ccae595d6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fHByaW50aW5nfGVufDB8MHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60"
               alt="About"
             />
 
             <div className="content position-absolute">
-              <h1 className="text-white">Find Out The Benefits</h1>
+              <h1 className="text-white">Extensive Printing Services</h1>
             </div>
           </div>
         </div>
 
         <div className="container-fluid">
-          <Meta title={'BENEFITS'} />
-          <CurrentLocation title="BENEFITS" />
+          <CurrentLocation title="Contact" />
 
-          <h1 className="text-center pt-5 pb-5">BENEFITS</h1>
+          <h1 className="text-center pt-5 pb-5">SERVICES</h1>
           <p className="pb-5" style={{ textAlign: 'justify' }}>
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Sequi
             aliquam adipisci vel amet! Debitis tempore, impedit provident
