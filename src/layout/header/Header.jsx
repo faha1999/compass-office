@@ -129,8 +129,8 @@ export const Header = () => {
                 </Link>
                 <ul className="dropdown-menu">
                   <li>
-                    <Link className="dropdown-item" href="#">
-                      Technology 1
+                    <Link to="/technologies" className="dropdown-item" href="#">
+                      Our Technology
                     </Link>
                   </li>
                   <li>

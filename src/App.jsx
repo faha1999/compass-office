@@ -6,6 +6,7 @@ import { Contact } from './components/contact/Contact';
 import { AboutUs } from './components/aboutUs/AboutUs';
 import { Benefits } from './components/benefits/Benefits';
 import { Services } from './components/Services/Services';
+import { Technologies } from './components/technologies/Technologies';
 
 export const App = () => {
   return (
@@ -18,6 +19,7 @@ export const App = () => {
             <Route path="/about-us" element={<AboutUs />} />
             <Route path="/benefits" element={<Benefits />} />
             <Route path="/services" element={<Services />} />
+            <Route path="/technologies" element={<Technologies />} />
           </Route>
         </Routes>
       </BrowserRouter>
