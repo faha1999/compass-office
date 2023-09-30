@@ -154,12 +154,12 @@ export const Header = () => {
                   data-bs-toggle="dropdown"
                   aria-expanded="false"
                 >
-                  Enterprize
+                  Expertise
                 </Link>
                 <ul className="dropdown-menu">
                   <li>
-                    <Link className="dropdown-item" href="#">
-                      Enterprize 1
+                    <Link to="/expertise" className="dropdown-item" href="#">
+                      Our Expertise
                     </Link>
                   </li>
                   <li>
