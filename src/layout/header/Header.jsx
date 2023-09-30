@@ -68,10 +68,11 @@ export const Header = () => {
                 >
                   Benefits
                 </Link>
+
                 <ul className="dropdown-menu">
                   <li>
-                    <Link className="dropdown-item" href="#">
-                      Benefits 1
+                    <Link to="/benefits" className="dropdown-item" href="#">
+                      About Benefits
                     </Link>
                   </li>
                   <li>

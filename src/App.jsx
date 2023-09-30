@@ -4,6 +4,7 @@ import { Layout } from './layout/Layout';
 import { Home } from './pages/Home';
 import { Contact } from './components/contact/Contact';
 import { AboutUs } from './components/aboutUs/AboutUs';
+import { Benefits } from './components/benefits/Benefits';
 
 export const App = () => {
   return (
@@ -14,6 +15,7 @@ export const App = () => {
             <Route index element={<Home />} />
             <Route path="/contact" element={<Contact />} />
             <Route path="/about-us" element={<AboutUs />} />
+            <Route path="/benefits" element={<Benefits />} />
           </Route>
         </Routes>
       </BrowserRouter>
