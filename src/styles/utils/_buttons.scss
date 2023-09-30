@@ -11,3 +11,16 @@
     transition: 0.4s ease-in-out;
   }
 }
+
+.tagBtn {
+  padding: 0.5rem 1rem;
+  color: var(--black-soft);
+  font-size: 1rem;
+  border: 0.125rem solid var(--skyBlue-light);
+  margin: 0.5rem 0.5rem;
+
+  &:hover {
+    transition: 0.4s ease-in-out;
+    opacity: 0.8;
+  }
+}

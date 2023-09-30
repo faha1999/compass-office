@@ -176,7 +176,7 @@ export const Header = () => {
               </li>
 
               <li className="nav-item">
-                <Link className="nav-link" href="#">
+                <Link to="/news" className="nav-link" href="#">
                   News
                 </Link>
               </li>
