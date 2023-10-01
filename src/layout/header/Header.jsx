@@ -76,12 +76,20 @@ export const Header = () => {
                     </Link>
                   </li>
                   <li>
-                    <Link className="dropdown-item" href="#">
+                    <Link
+                      to="another-action"
+                      className="dropdown-item"
+                      href="#"
+                    >
                       Another action
                     </Link>
                   </li>
                   <li>
-                    <Link className="dropdown-item" href="#">
+                    <Link
+                      to="something-else-here"
+                      className="dropdown-item"
+                      href="#"
+                    >
                       Something else here
                     </Link>
                   </li>
@@ -105,12 +113,20 @@ export const Header = () => {
                     </Link>
                   </li>
                   <li>
-                    <Link className="dropdown-item" href="#">
+                    <Link
+                      to="another-action"
+                      className="dropdown-item"
+                      href="#"
+                    >
                       Another action
                     </Link>
                   </li>
                   <li>
-                    <Link className="dropdown-item" href="#">
+                    <Link
+                      to="something-else-here"
+                      className="dropdown-item"
+                      href="#"
+                    >
                       Something else here
                     </Link>
                   </li>
@@ -134,12 +150,20 @@ export const Header = () => {
                     </Link>
                   </li>
                   <li>
-                    <Link className="dropdown-item" href="#">
+                    <Link
+                      to="another-action"
+                      className="dropdown-item"
+                      href="#"
+                    >
                       Another action
                     </Link>
                   </li>
                   <li>
-                    <Link className="dropdown-item" href="#">
+                    <Link
+                      to="something-else-here"
+                      className="dropdown-item"
+                      href="#"
+                    >
                       Something else here
                     </Link>
                   </li>
@@ -163,12 +187,20 @@ export const Header = () => {
                     </Link>
                   </li>
                   <li>
-                    <Link className="dropdown-item" href="#">
+                    <Link
+                      to="another-action"
+                      className="dropdown-item"
+                      href="#"
+                    >
                       Another action
                     </Link>
                   </li>
                   <li>
-                    <Link className="dropdown-item" href="#">
+                    <Link
+                      to="something-else-here"
+                      className="dropdown-item"
+                      href="#"
+                    >
                       Something else here
                     </Link>
                   </li>

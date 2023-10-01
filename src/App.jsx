@@ -9,6 +9,7 @@ import { Services } from './components/Services/Services';
 import { Technologies } from './components/technologies/Technologies';
 import { Expertise } from './components/expertise/Expertise';
 import { News } from './components/news/News';
+import { UnderContraction } from './pages/UnderContraction';
 
 export const App = () => {
   return (
@@ -24,6 +25,8 @@ export const App = () => {
             <Route path="/technologies" element={<Technologies />} />
             <Route path="/expertise" element={<Expertise />} />
             <Route path="/news" element={<News />} />
+            <Route path="/another-action" element={<UnderContraction />} />
+            <Route path="/something-else-here" element={<UnderContraction />} />
           </Route>
         </Routes>
       </BrowserRouter>

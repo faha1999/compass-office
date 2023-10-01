@@ -52,3 +52,17 @@
     margin: 0 auto;
   }
 }
+
+.UnderContraction {
+  padding-top: 3rem;
+  svg {
+    font-size: 10rem;
+    fill: var(--skyBlue-light);
+  }
+
+  h1 {
+    font-size: 3rem;
+    font-weight: 700;
+    padding-top: 2rem;
+  }
+}
