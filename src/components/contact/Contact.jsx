@@ -28,6 +28,54 @@ export const Contact = () => {
 
         <div className="container-fluid contactDetails pt-5">
           <div className="row">
+            <div className="col-12 contactInfo">
+              <h1 className="text-center pb-5">About Us</h1>
+              <p>
+                Welcome to UAE Copier - Your Premier Managed Printing Service
+                Provider in Dubai! <br />
+                <br />
+                Established in the heart of Deira, UAE Copier has solidified its
+                position as a leading Managed Printing Service (MPS) provider in
+                Dubai. With an unyielding commitment to exceptional service, we
+                take pride in ensuring your printing needs are not just met, but
+                exceeded.
+              </p>
+              <h5 className="pt-3 fw-bold">Why Choose UAE Copier?</h5>
+              <p className="pt-1">
+                <strong>Local Expertise:</strong> Being headquartered in Dubai,
+                we possess an intrinsic understanding of the unique needs of
+                local businesses. Our location at 36, 7 states building, Deira,
+                positions us strategically to serve you swiftly and efficiently.
+              </p>
+              <p className="pt-1">
+                <strong>Cutting-edge Technology:</strong> We stay abreast of the
+                latest technological advancements in the MPS industry. This
+                ensures that you always have access to the most efficient,
+                secure, and eco-friendly printing solutions.
+              </p>
+              <p className="pt-1">
+                <strong>Dedicated Support:</strong> Our team is our strength.
+                Comprised of seasoned professionals, we guarantee prompt
+                responses and effective solutions tailored to your requirements.
+              </p>
+
+              <h5 className="pt-3 fw-bold">Get In Touch</h5>
+
+              <p className="pt-1">
+                Whether you are looking to optimize your printing environment,
+                reduce costs, or simply seeking expert advice, UAE Copier is
+                here for you. Contact us today and experience unparalleled
+                service. <br />
+                <br /> At UAE Copier, we believe in forging long-lasting
+                relationships. Let’s embark on this journey together.
+              </p>
+              <p className="pt-1">
+                <strong></strong>
+              </p>
+            </div>
+          </div>
+
+          <div className="row">
             <h1 className="text-center">Connect With Us</h1>
 
             <div className="col-4 text-center">
@@ -35,29 +83,32 @@ export const Contact = () => {
 
               <h2 className="fw-bold pt-3 pb-3">We Are Here</h2>
 
-              <p>209, Makeen Building, Airport Road, Dubai</p>
+              <p>
+                UAE Copier 36, 7 states buiding, Deira , Dubai, UAE, P.O box:
+                380750
+              </p>
             </div>
 
             <div className="col-4 text-center">
               <MdConnectWithoutContact />
               <h2 className="fw-bold pt-3 pb-3">Contact Us</h2>
               <p>
-                Phone: <a href="tel:+000123456789">+000 1 2345 6789</a>
+                Phone: <a href="tel:+971501726313">+971 50 172 6313</a>
               </p>
               <p>
-                Phone: <a href="tel:+000123456789">+000 1 2345 6789</a>
-              </p>
-
-              <p>
-                <a href="mailto:info@uae-copier.com">info@uae-copier.com</a>
+                Phone: <a href="tel:+971501726313">+971 50 172 6313</a>
               </p>
 
               <p>
-                <a href="mailto:info@uae-copier.com">info@uae-copier.com</a>
+                <a href="mailto:info@uaecopier.ae">info@uaecopier.ae</a>
               </p>
 
               <p>
-                <a href="mailto:info@uae-copier.com">info@uae-copier.com</a>
+                <a href="mailto:info@uaecopier.ae">info@uaecopier.ae</a>
+              </p>
+
+              <p>
+                <a href="mailto:info@uaecopier.ae">info@uaecopier.ae</a>
               </p>
             </div>
 
@@ -66,7 +117,8 @@ export const Contact = () => {
 
               <h2 className="fw-bold pt-3 pb-3">Working Hours</h2>
 
-              <p>Monday-Friday: 8:30 am – 5:30 pm</p>
+              <p>Monday-Thursday: 9:00 am – 5:00 pm</p>
+              <p>Friday: 9:00 am - 11:30 am</p>
               <p>Saturday-Sunday: Closed</p>
             </div>
           </div>
