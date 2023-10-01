@@ -1,13 +1,13 @@
 import React from 'react';
-import { IoIosConstruct } from 'react-icons/io';
+import { ImHappy } from 'react-icons/im';
 
 export const UnderContraction = () => {
   return (
     <>
       <div className="text-center UnderContraction">
-        <IoIosConstruct />
+        <ImHappy />
 
-        <h1>The Page is under contraction.</h1>
+        <h1>This page is under maintenance. </h1>
       </div>
     </>
   );
