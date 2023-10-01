@@ -18,7 +18,11 @@ export const FooterTop = () => {
             <div className="col-6 d-flex contactInfo">
               <MdLocationPin />
 
-              <p>Address: 209, Makeen Building, Airport Road, Dubai</p>
+              <p>
+                Address: UAE Copier 36, 7 states buiding, Deira , Dubai, UAE,
+                <br />
+                P.O box: 380750
+              </p>
             </div>
 
             <div className="col-6 contactInfo">
@@ -26,7 +30,7 @@ export const FooterTop = () => {
                 <BsFillTelephoneFill />
 
                 <p>
-                  Phone: <a href="tel:+000123456789">+000 1 2345 6789</a>
+                  Phone: <a href="tel:+971501726313">+971 50 172 6313</a>
                 </p>
               </div>
 
@@ -41,7 +45,7 @@ export const FooterTop = () => {
 
                 <p>
                   Email:{' '}
-                  <a href="mailto:info@uae-copier.com">info@uae-copier.com</a>
+                  <a href="mailto:info@uaecopier.ae">info@uaecopier.ae</a>
                 </p>
               </div>
             </div>
