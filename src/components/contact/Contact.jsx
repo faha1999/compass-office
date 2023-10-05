@@ -8,9 +8,6 @@ import { BsFillCalendarWeekFill } from 'react-icons/bs';
 export const Contact = () => {
   return (
     <>
-      <Meta title={'About us'} />
-      <CurrentLocation title="Contact" />
-
       <div className="contact">
         <div className="pageHero">
           <div className="img w-100 position-relative">
@@ -25,6 +22,9 @@ export const Contact = () => {
             </div>
           </div>
         </div>
+
+        <Meta title={'About us'} />
+        <CurrentLocation title="Contact" />
 
         <div className="container-fluid contactDetails pt-5">
           <div className="row">
@@ -76,9 +76,9 @@ export const Contact = () => {
           </div>
 
           <div className="row">
-            <h1 className="text-center">Connect With Us</h1>
+            <h1 className="text-center pb-5">Connect With Us</h1>
 
-            <div className="col-4 text-center">
+            <div className="pb-4 col-xs-12 col-sm-12 col-md-4 text-center">
               <BiSolidMapAlt />
 
               <h2 className="fw-bold pt-3 pb-3">We Are Here</h2>
@@ -89,7 +89,7 @@ export const Contact = () => {
               </p>
             </div>
 
-            <div className="col-4 text-center">
+            <div className="pb-4 col-xs-12 col-sm-12 col-md-4 text-center">
               <MdConnectWithoutContact />
               <h2 className="fw-bold pt-3 pb-3">Contact Us</h2>
               <p>
@@ -112,7 +112,7 @@ export const Contact = () => {
               </p>
             </div>
 
-            <div className="col-4 text-center">
+            <div className="pb-4 col-xs-12 col-sm-12 col-md-4 text-center">
               <BsFillCalendarWeekFill />
 
               <h2 className="fw-bold pt-3 pb-3">Working Hours</h2>

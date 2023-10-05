@@ -66,3 +66,17 @@
     padding-top: 2rem;
   }
 }
+
+@media screen and (min-width: 1024px) {
+}
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+}
+@media screen and (max-width: 767px) {
+  .pageHero {
+    .img {
+      img {
+        height: 20rem;
+      }
+    }
+  }
+}
