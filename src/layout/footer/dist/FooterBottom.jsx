@@ -8,12 +8,12 @@ export const FooterBottom = () => {
     <>
       <div className="row FooterBottom pb-4 pt-4">
         <div className="col-sm-12 col-md-4">
-          <p className="mb-0 text-white">
+          <p className="mb-0 text-white text-sm-center">
             &copy; <strong>uaecopier</strong> {new Date().getFullYear()} All
             write reserved
           </p>
         </div>
-        <div className="col-sm-12 col-md-4 ">
+        <div className="col-sm-12 col-md-4 pb-sm-4 pt-sm-4">
           <div className="text-center">
             <Link className="me-3">Support</Link>
             <Link className="me-3">Contact</Link>
@@ -22,7 +22,7 @@ export const FooterBottom = () => {
           </div>
         </div>
         <div className="col-sm-12 col-md-4">
-          <div className="text-end">
+          <div className="text-xs-center text-sm-center text-md-end">
             <Link className="me-3">
               <AiOutlineTwitter />
             </Link>
