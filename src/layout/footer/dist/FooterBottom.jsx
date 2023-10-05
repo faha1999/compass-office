@@ -13,6 +13,7 @@ export const FooterBottom = () => {
             write reserved
           </p>
         </div>
+
         <div className="col-sm-12 col-md-4 pb-sm-4 pt-sm-4">
           <div className="text-center">
             <Link className="me-3">Support</Link>
@@ -21,6 +22,7 @@ export const FooterBottom = () => {
             <Link>Terms</Link>
           </div>
         </div>
+
         <div className="col-sm-12 col-md-4">
           <div className="text-xs-center text-sm-center text-md-end">
             <Link className="me-3">
