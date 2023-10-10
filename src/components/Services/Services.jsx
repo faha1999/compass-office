@@ -49,7 +49,7 @@ export const Services = () => {
         </div>
 
         <div className="row">
-          <div className="col-4">
+          <div className="col-sm-12 col-md-4">
             <div
               className="learnMoreCardImage"
               style={{
@@ -58,7 +58,7 @@ export const Services = () => {
             ></div>
           </div>
 
-          <div className="col-4">
+          <div className="col-sm-12 col-md-4">
             <div className="text-center learnMoreCard">
               <AiTwotoneCustomerService />
 
@@ -76,7 +76,7 @@ export const Services = () => {
             </div>
           </div>
 
-          <div className="col-4">
+          <div className="col-sm-12 col-md-4">
             <div
               className="learnMoreCardImage"
               style={{
@@ -85,7 +85,7 @@ export const Services = () => {
             ></div>
           </div>
 
-          <div className="col-4">
+          <div className="col-sm-12 col-md-4">
             <div className="text-center learnMoreCard">
               <AiTwotoneCustomerService />
 
@@ -103,7 +103,7 @@ export const Services = () => {
             </div>
           </div>
 
-          <div className="col-4">
+          <div className="col-sm-12 col-md-4">
             <div
               className="learnMoreCardImage"
               style={{
@@ -112,7 +112,7 @@ export const Services = () => {
             ></div>
           </div>
 
-          <div className="col-4">
+          <div className="col-sm-12 col-md-4">
             <div className="text-center learnMoreCard">
               <AiTwotoneCustomerService />
 
@@ -130,7 +130,7 @@ export const Services = () => {
             </div>
           </div>
 
-          <div className="col-4">
+          <div className="col-sm-12 col-md-4">
             <div
               className="learnMoreCardImage"
               style={{
@@ -139,7 +139,7 @@ export const Services = () => {
             ></div>
           </div>
 
-          <div className="col-4">
+          <div className="col-sm-12 col-md-4">
             <div className="text-center learnMoreCard">
               <AiTwotoneCustomerService />
 
@@ -157,7 +157,7 @@ export const Services = () => {
             </div>
           </div>
 
-          <div className="col-4">
+          <div className="col-sm-12 col-md-4">
             <div
               className="learnMoreCardImage"
               style={{
@@ -166,7 +166,7 @@ export const Services = () => {
             ></div>
           </div>
 
-          <div className="col-4">
+          <div className="col-sm-12 col-md-4">
             <div className="text-center learnMoreCard">
               <AiTwotoneCustomerService />
 
@@ -184,7 +184,7 @@ export const Services = () => {
             </div>
           </div>
 
-          <div className="col-4">
+          <div className="col-sm-12 col-md-4">
             <div
               className="learnMoreCardImage"
               style={{
@@ -193,7 +193,7 @@ export const Services = () => {
             ></div>
           </div>
 
-          <div className="col-4">
+          <div className="col-sm-12 col-md-4">
             <div className="text-center learnMoreCard">
               <AiTwotoneCustomerService />
 
