@@ -23,7 +23,7 @@ export const AboutUs = () => {
           <h1 className="text-center pt-5 pb-5">About Us</h1>
 
           <div className="row">
-            <div className="col-4 text-center">
+            <div className="col-sm-12 col-md-4 text-center pb-5">
               <h2>Ghobash Group</h2>
 
               <p className="pt-3 pb-3">
@@ -41,13 +41,13 @@ export const AboutUs = () => {
 
               <Link className="learnMore">Learn More</Link>
             </div>
-            <div className="col-4">
+            <div className="col-sm-12 col-md-4 pb-5">
               <img
                 src="https://images.unsplash.com/photo-1508385082359-f38ae991e8f2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cHJvZmVzc2lvbmFsfGVufDB8MXwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60"
                 alt="About"
               />
             </div>
-            <div className="col-4 text-center">
+            <div className="col-sm-12 col-md-4 text-center pb-5">
               <h2>Ghobash Group</h2>
 
               <p className="pt-3 pb-3">
