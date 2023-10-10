@@ -8,7 +8,7 @@ export const WhyUs = () => {
       <div className="whyUs pt-4 pb-4">
         <div className="container-fluid">
           <div className="row">
-            <div className="col-6">
+            <div className="col-sm-12 col-md-6">
               <div>
                 <h1 className="text-center pt-5">WHY CHOOSE US ?</h1>
 
@@ -22,7 +22,7 @@ export const WhyUs = () => {
               </div>
 
               <div className="row">
-                <div className="col-6 whyUs-content">
+                <div className="col-sm-12 col-md-6 whyUs-content">
                   <Link>DIGITAL</Link>
 
                   <p>
@@ -32,7 +32,7 @@ export const WhyUs = () => {
                   </p>
                 </div>
 
-                <div className="col-6 whyUs-content">
+                <div className="col-sm-12 col-md-6 whyUs-content">
                   <Link>INNOVATION</Link>
 
                   <p>
@@ -44,7 +44,7 @@ export const WhyUs = () => {
               </div>
 
               <div className="row">
-                <div className="col-6 whyUs-content">
+                <div className="col-sm-12 col-md-6 whyUs-content">
                   <Link>TECHNOLOGIES</Link>
 
                   <p>
@@ -54,7 +54,7 @@ export const WhyUs = () => {
                   </p>
                 </div>
 
-                <div className="col-6 whyUs-content">
+                <div className="col-sm-12 col-md-6 whyUs-content">
                   <Link>INDEPENDENCE</Link>
 
                   <p>
@@ -65,7 +65,7 @@ export const WhyUs = () => {
                 </div>
               </div>
             </div>
-            <div className="col-6">
+            <div className="col-sm-12 col-md-6 d-xs-none d-sm-none d-md-block">
               <img src={whyUs} className="image" alt="whyUs" />
             </div>
           </div>
