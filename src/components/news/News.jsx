@@ -30,14 +30,14 @@ export const News = () => {
           <CurrentLocation title="Latest News" />
 
           <div className="row">
-            <div className="col-8">
+            <div className="col-sm-12 col-md-8">
               <NewsCard />
               <NewsCard />
               <NewsCard />
               <NewsCard />
             </div>
 
-            <div className="col-4">
+            <div className="col-sm-12 col-md-4">
               <h1 className="text-center tags">Tags</h1>
 
               <div className="d-flex justify-content-center flex-wrap">
