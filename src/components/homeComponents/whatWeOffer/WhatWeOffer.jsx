@@ -11,7 +11,7 @@ export const WhatWeOffer = () => {
 
         <div className="container-fluid mt-5 pt-3">
           <div className="row">
-            <div className="col-6 WhatWeOffer-content">
+            <div className="col-sm-12 col-md-6 WhatWeOffer-content">
               <Link className="pb-3 headLine">TECHNOLOGIES</Link>
 
               <p>
@@ -26,7 +26,7 @@ export const WhatWeOffer = () => {
               />
             </div>
 
-            <div className="col-6 WhatWeOffer-content">
+            <div className="col-sm-12 col-md-6 WhatWeOffer-content pt-xs-5">
               <Link className="pb-3 headLine">BENEFITS</Link>
 
               <p>
@@ -43,7 +43,7 @@ export const WhatWeOffer = () => {
           </div>
 
           <div className="row mt-5">
-            <div className="col-6 WhatWeOffer-content">
+            <div className="col-sm-12 col-md-6 WhatWeOffer-content pt-xs-5">
               <Link className="pb-3 headLine">SERVICES</Link>
 
               <p>
@@ -58,7 +58,7 @@ export const WhatWeOffer = () => {
               />
             </div>
 
-            <div className="col-6 WhatWeOffer-content">
+            <div className="col-sm-12 col-md-6 WhatWeOffer-content pt-xs-5">
               <Link className="pb-3 headLine">EXPERTISE</Link>
 
               <p>
