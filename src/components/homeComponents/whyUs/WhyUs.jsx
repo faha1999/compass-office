@@ -13,54 +13,56 @@ export const WhyUs = () => {
                 <h1 className="text-center pt-5">WHY CHOOSE US ?</h1>
 
                 <p className="text-justify">
-                  We have expertise to optimize your print strategy. Thanks to
-                  our print and document assessment, you will achieve a complete
-                  transparency, understand how to increase savings and enhance
-                  efficiency. We make sure to optimize your performance thanks
-                  to our unique <Link>Managed Service solution.</Link>
+                  We possess the skills to fine-tune your printing strategy. Our
+                  comprehensive evaluation of your print and document needs
+                  ensures complete transparency, providing insights into cost
+                  reduction and efficiency enhancement. Our distinctive{' '}
+                  <Link>Managed Service solution.</Link> guarantees performance
+                  optimization.
                 </p>
               </div>
 
               <div className="row">
                 <div className="col-sm-12 col-md-6 whyUs-content">
-                  <Link>DIGITAL</Link>
+                  <Link>Integration</Link>
 
                   <p>
-                    Lorem ipsum dolor sit amet consectetur, adipisicing elit.
-                    Velit laboriosam natus numquam. Animi debitis nostrum vel
-                    aliquam beatae officia provident?
+                    We provide digital printing solutions from globally
+                    acclaimed manufacturers. Moreover, our customized technology
+                    is enhanced through our collaboration and alliances with
+                    leading software solution providers.
                   </p>
                 </div>
 
                 <div className="col-sm-12 col-md-6 whyUs-content">
-                  <Link>INNOVATION</Link>
+                  <Link>Advancement</Link>
 
                   <p>
-                    Lorem ipsum dolor sit amet consectetur, adipisicing elit.
-                    Velit laboriosam natus numquam. Animi debitis nostrum vel
-                    aliquam beatae officia provident?
+                    We continually advance to deliver top-notch software and
+                    hardware in the UAE, making substantial investments in
+                    services, solutions, and products.
                   </p>
                 </div>
               </div>
 
               <div className="row">
                 <div className="col-sm-12 col-md-6 whyUs-content">
-                  <Link>TECHNOLOGIES</Link>
+                  <Link>Diversification</Link>
 
                   <p>
-                    Lorem ipsum dolor sit amet consectetur, adipisicing elit.
-                    Velit laboriosam natus numquam. Animi debitis nostrum vel
-                    aliquam beatae officia provident?
+                    Our diversification as a multi-brand provider enables us to
+                    offer the latest technological products and create document
+                    workflow solutions for our clients.
                   </p>
                 </div>
 
                 <div className="col-sm-12 col-md-6 whyUs-content">
-                  <Link>INDEPENDENCE</Link>
+                  <Link>Autonomy</Link>
 
                   <p>
-                    Lorem ipsum dolor sit amet consectetur, adipisicing elit.
-                    Velit laboriosam natus numquam. Animi debitis nostrum vel
-                    aliquam beatae officia provident?
+                    As an autonomous entity, MPS Company selects optimal
+                    hardware and software solutions to fulfill customer
+                    requirements and preferences.
                   </p>
                 </div>
               </div>

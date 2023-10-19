@@ -12,12 +12,12 @@ export const WhatWeOffer = () => {
         <div className="container-fluid mt-5 pt-3">
           <div className="row">
             <div className="col-sm-12 col-md-6 WhatWeOffer-content">
-              <Link className="pb-3 headLine">TECHNOLOGIES</Link>
+              <Link className="pb-3 headLine">Excellence</Link>
 
               <p>
-                Lorem ipsum dolor sit amet consectetur, adipisicing elit. Velit
-                laboriosam natus numquam. Animi debitis nostrum vel aliquam
-                beatae..... <Link className="readMore">Read More</Link>
+                MPS Company holds a top position in Managed Services and Digital
+                Document Services, merging industry knowledge with.....
+                <Link className="readMore">Read More</Link>
               </p>
 
               <img
@@ -27,12 +27,13 @@ export const WhatWeOffer = () => {
             </div>
 
             <div className="col-sm-12 col-md-6 WhatWeOffer-content pt-xs-5">
-              <Link className="pb-3 headLine">BENEFITS</Link>
+              <Link className="pb-3 headLine">Versatility</Link>
 
               <p>
-                Lorem ipsum dolor sit amet consectetur, adipisicing elit. Velit
-                laboriosam natus numquam. Animi debitis nostrum vel aliquam
-                beatae..... <Link className="readMore">Read More</Link>
+                Our versatility lies in MPS's ability to select from top-tier
+                brands in the print, copy, and scan sector. Coupled with our
+                proficiency in on-site device.....
+                <Link className="readMore">Read More</Link>
               </p>
 
               <img
@@ -44,12 +45,12 @@ export const WhatWeOffer = () => {
 
           <div className="row mt-5">
             <div className="col-sm-12 col-md-6 WhatWeOffer-content pt-xs-5">
-              <Link className="pb-3 headLine">SERVICES</Link>
+              <Link className="pb-3 headLine">Dominance</Link>
 
               <p>
-                Lorem ipsum dolor sit amet consectetur, adipisicing elit. Velit
-                laboriosam natus numquam. Animi debitis nostrum vel aliquam
-                beatae..... <Link className="readMore">Read More</Link>
+                MPS Company holds a dominant position in the field of Managed
+                Services and Digital Document Services, uniting industry
+                knowledge with..... <Link className="readMore">Read More</Link>
               </p>
 
               <img
@@ -59,12 +60,12 @@ export const WhatWeOffer = () => {
             </div>
 
             <div className="col-sm-12 col-md-6 WhatWeOffer-content pt-xs-5">
-              <Link className="pb-3 headLine">EXPERTISE</Link>
+              <Link className="pb-3 headLine">Supremacy</Link>
 
               <p>
-                Lorem ipsum dolor sit amet consectetur, adipisicing elit. Velit
-                laboriosam natus numquam. Animi debitis nostrum vel aliquam
-                beatae..... <Link className="readMore">Read More</Link>
+                With over three decades of expertise, operating under the UAE
+                Copier, MPS Company has become the leading managed service
+                provider..... <Link className="readMore">Read More</Link>
               </p>
 
               <img

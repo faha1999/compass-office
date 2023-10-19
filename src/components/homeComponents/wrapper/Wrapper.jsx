@@ -12,57 +12,53 @@ export const Wrapper = () => {
           <div className="row">
             <Link className="col-sm-12 col-md-3 p-3 wrapperCard">
               <div className="d-flex justify-content-between">
-                <h1>Cost Control</h1>
+                <h1>Assessment</h1>
 
                 <FaWallet className="mb-0" />
               </div>
 
               <p>
-                Lorem ipsum dolor, sit amet consectetur adipisicing elit.
-                Placeat vel cumque obcaecati porro quis libero sapiente ipsa
-                voluptas reiciendis repellat.
+                We diligently scrutinize your day-to-day operations to assess
+                your organization's excess spending.
               </p>
             </Link>
 
             <Link className="col-sm-12 col-md-3 p-3 wrapperCard">
               <div className="d-flex justify-content-between">
-                <h1>Security</h1>
+                <h1>Recommendation</h1>
 
                 <AiTwotoneUnlock className="mb-0" />
               </div>
 
               <p>
-                Lorem ipsum dolor, sit amet consectetur adipisicing elit.
-                Placeat vel cumque obcaecati porro quis libero sapiente ipsa
-                voluptas reiciendis repellat.
+                We can assist you in identifying the appropriate document
+                management software that offers a range of control choices.
               </p>
             </Link>
 
             <Link className="col-sm-12 col-md-3 p-3 wrapperCard">
               <div className="d-flex justify-content-between">
-                <h1>Efficiency</h1>
+                <h1>Innovation</h1>
 
                 <AiOutlineClockCircle className="mb-0" />
               </div>
 
               <p>
-                Lorem ipsum dolor, sit amet consectetur adipisicing elit.
-                Placeat vel cumque obcaecati porro quis libero sapiente ipsa
-                voluptas reiciendis repellat.
+                We are innovating with cutting-edge technologies aimed at
+                enhancing efficiency.
               </p>
             </Link>
 
             <Link className="col-sm-12 col-md-3 p-3 wrapperCard">
               <div className="d-flex justify-content-between">
-                <h1>Green Printing</h1>
+                <h1>Facilitation</h1>
 
                 <GiGreenPower className="mb-0" />
               </div>
 
               <p>
-                Lorem ipsum dolor, sit amet consectetur adipisicing elit.
-                Placeat vel cumque obcaecati porro quis libero sapiente ipsa
-                voluptas reiciendis repellat.
+                We will facilitate your search for the perfect software and
+                hardware to attain eco-friendly printing and minimize waste.
               </p>
             </Link>
           </div>
