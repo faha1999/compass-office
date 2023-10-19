@@ -8,4 +8,14 @@
   h2 {
     font-size: 1.375rem;
   }
+
+  .AboutUsImg {
+    height: 31.25rem;
+
+    img {
+      height: 100%;
+      width: 100%;
+      object-fit: cover;
+    }
+  }
 }

@@ -24,43 +24,39 @@ export const AboutUs = () => {
 
           <div className="row">
             <div className="col-sm-12 col-md-4 text-center pb-5">
-              <h2>Ghobash Group</h2>
+              <h2>UAE Copier</h2>
 
               <p className="pt-3 pb-3">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                Pariatur, quae aliquam officia eius quidem praesentium eos id
-                voluptas inventore? Maxime mollitia laborum ex soluta autem,
-                repellat repudiandae neque aspernatur enim doloribus blanditiis
-                asperiores aperiam, quibusdam eius fugiat? Tempora vel nesciunt
-                placeat, facere rem perspiciatis error vero recusandae dolore
-                quasi officia voluptas odio nam alias consectetur sed
-                repellendus quam quod molestiae incidunt aliquid! Placeat illum
-                saepe exercitationem architecto? Non ab veniam porro quam. Animi
-                fugiat ipsum doloribus inventore tempore assumenda voluptatum!
+                Having a rich 30-year history of achievements, UAE Copier has
+                solidified its position as one of the region's multifaceted
+                business conglomerates. Collaborating with like-minded partners,
+                the company actively pursues sustainable and lucrative
+                investment prospects in both the private and public sectors.
+                These endeavors not only deliver maximum value to stakeholders
+                but also foster sustainable development in the communities where
+                UAE Copier conducts its operations.
               </p>
 
               <Link className="learnMore">Learn More</Link>
             </div>
-            <div className="col-sm-12 col-md-4 pb-5">
+            <div className="col-sm-12 col-md-4 pb-5 AboutUsImg">
               <img
                 src="https://images.unsplash.com/photo-1508385082359-f38ae991e8f2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cHJvZmVzc2lvbmFsfGVufDB8MXwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60"
                 alt="About"
               />
             </div>
             <div className="col-sm-12 col-md-4 text-center pb-5">
-              <h2>Ghobash Group</h2>
+              <h2>MPS</h2>
 
               <p className="pt-3 pb-3">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                Pariatur, quae aliquam officia eius quidem praesentium eos id
-                voluptas inventore? Maxime mollitia laborum ex soluta autem,
-                repellat repudiandae neque aspernatur enim doloribus blanditiis
-                asperiores aperiam, quibusdam eius fugiat? Tempora vel nesciunt
-                placeat, facere rem perspiciatis error vero recusandae dolore
-                quasi officia voluptas odio nam alias consectetur sed
-                repellendus quam quod molestiae incidunt aliquid! Placeat illum
-                saepe exercitationem architecto? Non ab veniam porro quam. Animi
-                fugiat ipsum doloribus inventore tempore assumenda voluptatum!
+                MPS Company operates within the framework of UAE Copier, which
+                has empowered us to embrace a distinctive strategy and harness
+                the knowledge gained from this affiliation. As an autonomous
+                provider of print, document, and process technology, MPS Company
+                stands out through our multi-vendor print technology and service
+                approach. We meticulously oversee our clients' operations to
+                ensure maximum uptime and provide solutions that allow us to
+                offer a unique array of services in the UAE.
               </p>
 
               <Link className="learnMore">Learn More</Link>
