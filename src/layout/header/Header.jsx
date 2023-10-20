@@ -207,11 +207,11 @@ export const Header = () => {
                 </ul>
               </li>
 
-              <li className="nav-item">
+              {/* <li className="nav-item">
                 <Link to="/news" className="nav-link" href="#">
                   News
                 </Link>
-              </li>
+              </li> */}
 
               <li className="nav-item">
                 <Link to="/contact" className="nav-link" href="#">
