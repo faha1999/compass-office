@@ -34,19 +34,16 @@ export const Technologies = () => {
 
           <h1 className="text-center pt-5 pb-5">TECHNOLOGY</h1>
           <p className="pb-5" style={{ textAlign: 'justify' }}>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Sequi
-            aliquam adipisci vel amet! Debitis tempore, impedit provident
-            facilis, ab dignissimos repellat beatae eum, modi cupiditate sunt
-            laboriosam. Aut veniam ab tempore, quam illo perspiciatis accusamus
-            minima maiores placeat rerum similique suscipit ut numquam mollitia
-            laudantium dolor pariatur. At, dolore autem repellendus modi quam
-            temporibus doloremque amet laboriosam delectus quas pariatur quaerat
-            sed iste quis praesentium possimus, optio veritatis distinctio.
-            Rerum cupiditate quaerat eligendi sunt obcaecati magnam pariatur
-            voluptatibus laboriosam fugit ea officiis suscipit asperiores
-            exercitationem quas quos, mollitia perferendis atque natus, quasi
-            doloremque accusantium tempora iure doloribus maiores. Odio,
-            doloremque.
+            Our autonomy at MPS, along with the freedom to select from the
+            industry's finest brands in printing, copying, and scanning, in
+            combination with our adeptness in supporting and upkeeping devices
+            at client locations across the UAE, confirms our suitability as the
+            preferred company to offer top-notch hardware and software solutions
+            tailored to your needs. As a provider of multiple brands, we are
+            well-positioned to provide cutting-edge products and design document
+            workflow solutions for our clients. We assist our clients in
+            enhancing efficiency and productivity, cutting costs, minimizing
+            errors and waste, and fortifying secure business practices.
           </p>
         </div>
 
