@@ -8,7 +8,7 @@ export const Footer = () => {
   return (
     <>
       <footer>
-        <div className="container-fluid pt-5">
+        <div className="container-fluid">
           <FooterTop />
         </div>
         <Map />

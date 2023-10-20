@@ -233,7 +233,7 @@ export const Header = () => {
                   <ul className="">
                     <li>
                       <Link className="" href="#">
-                        Action
+                        Mobile dropdown
                       </Link>
                     </li>
                     <li>
@@ -248,36 +248,6 @@ export const Header = () => {
                     </li>
                   </ul>
                 )}
-              </li> */}
-
-              {/* dropdown Demo */}
-              {/* <li className="nav-item dropdown">
-                <Link
-                  className="nav-link dropdown-toggle"
-                  href="#"
-                  role="button"
-                  data-bs-toggle="dropdown"
-                  aria-expanded="false"
-                >
-                  Dropdown link
-                </Link>
-                <ul className="dropdown-menu">
-                  <li>
-                    <Link className="dropdown-item" href="#">
-                      Action
-                    </Link>
-                  </li>
-                  <li>
-                    <Link className="dropdown-item" href="#">
-                      Another action
-                    </Link>
-                  </li>
-                  <li>
-                    <Link className="dropdown-item" href="#">
-                      Something else here
-                    </Link>
-                  </li>
-                </ul>
               </li> */}
             </ul>
           </nav>

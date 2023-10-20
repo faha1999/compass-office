@@ -1,7 +1,7 @@
 import React from 'react';
 import logo from '../../../assets/images/logo.png';
 import { Link } from 'react-router-dom';
-import { FiAirplay } from 'react-icons/fi';
+// import { FiAirplay } from 'react-icons/fi';
 
 export const FooterMiddle = () => {
   return (
