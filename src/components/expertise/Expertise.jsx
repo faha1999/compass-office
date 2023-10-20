@@ -64,14 +64,12 @@ export const Expertise = () => {
             <div className="text-center learnMoreCard">
               <AiTwotoneCustomerService />
 
-              <h2>Ghobash Group</h2>
+              <h2>UAE Copier</h2>
 
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                Pariatur, quae aliquam officia eius quidem praesentium eos id
-                voluptas inventore? Maxime mollitia laborum ex soluta autem,
-                repellat repudiandae neque aspernatur enim doloribus blanditiis
-                asperiores aperiam, quibusdam eius fugiat.
+                MPS Company is committed to achieving service excellence,
+                striving to provide unparalleled client support that enhances
+                your business performance to the fullest.
               </p>
 
               <Link className="learnMore">Learn More</Link>
@@ -91,14 +89,12 @@ export const Expertise = () => {
             <div className="text-center learnMoreCard">
               <AiTwotoneCustomerService />
 
-              <h2>Ghobash Group</h2>
+              <h2>UAE Copier</h2>
 
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                Pariatur, quae aliquam officia eius quidem praesentium eos id
-                voluptas inventore? Maxime mollitia laborum ex soluta autem,
-                repellat repudiandae neque aspernatur enim doloribus blanditiis
-                asperiores aperiam, quibusdam eius fugiat.
+                MPS Company is committed to achieving service excellence,
+                striving to provide unparalleled client support that enhances
+                your business performance to the fullest.
               </p>
 
               <Link className="learnMore">Learn More</Link>
@@ -118,14 +114,12 @@ export const Expertise = () => {
             <div className="text-center learnMoreCard">
               <AiTwotoneCustomerService />
 
-              <h2>Ghobash Group</h2>
+              <h2>UAE Copier</h2>
 
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                Pariatur, quae aliquam officia eius quidem praesentium eos id
-                voluptas inventore? Maxime mollitia laborum ex soluta autem,
-                repellat repudiandae neque aspernatur enim doloribus blanditiis
-                asperiores aperiam, quibusdam eius fugiat.
+                MPS Company is committed to achieving service excellence,
+                striving to provide unparalleled client support that enhances
+                your business performance to the fullest.
               </p>
 
               <Link className="learnMore">Learn More</Link>
@@ -145,14 +139,12 @@ export const Expertise = () => {
             <div className="text-center learnMoreCard">
               <AiTwotoneCustomerService />
 
-              <h2>Ghobash Group</h2>
+              <h2>UAE Copier</h2>
 
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                Pariatur, quae aliquam officia eius quidem praesentium eos id
-                voluptas inventore? Maxime mollitia laborum ex soluta autem,
-                repellat repudiandae neque aspernatur enim doloribus blanditiis
-                asperiores aperiam, quibusdam eius fugiat.
+                MPS Company is committed to achieving service excellence,
+                striving to provide unparalleled client support that enhances
+                your business performance to the fullest.
               </p>
 
               <Link className="learnMore">Learn More</Link>
@@ -172,14 +164,12 @@ export const Expertise = () => {
             <div className="text-center learnMoreCard">
               <AiTwotoneCustomerService />
 
-              <h2>Ghobash Group</h2>
+              <h2>UAE Copier</h2>
 
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                Pariatur, quae aliquam officia eius quidem praesentium eos id
-                voluptas inventore? Maxime mollitia laborum ex soluta autem,
-                repellat repudiandae neque aspernatur enim doloribus blanditiis
-                asperiores aperiam, quibusdam eius fugiat.
+                MPS Company is committed to achieving service excellence,
+                striving to provide unparalleled client support that enhances
+                your business performance to the fullest.
               </p>
 
               <Link className="learnMore">Learn More</Link>
@@ -199,14 +189,12 @@ export const Expertise = () => {
             <div className="text-center learnMoreCard">
               <AiTwotoneCustomerService />
 
-              <h2>Ghobash Group</h2>
+              <h2>UAE Copier</h2>
 
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                Pariatur, quae aliquam officia eius quidem praesentium eos id
-                voluptas inventore? Maxime mollitia laborum ex soluta autem,
-                repellat repudiandae neque aspernatur enim doloribus blanditiis
-                asperiores aperiam, quibusdam eius fugiat.
+                MPS Company is committed to achieving service excellence,
+                striving to provide unparalleled client support that enhances
+                your business performance to the fullest.
               </p>
 
               <Link className="learnMore">Learn More</Link>
