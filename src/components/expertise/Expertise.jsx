@@ -34,19 +34,13 @@ export const Expertise = () => {
 
           <h1 className="text-center pt-5 pb-5">EXPERTISE</h1>
           <p className="pb-5" style={{ textAlign: 'justify' }}>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Sequi
-            aliquam adipisci vel amet! Debitis tempore, impedit provident
-            facilis, ab dignissimos repellat beatae eum, modi cupiditate sunt
-            laboriosam. Aut veniam ab tempore, quam illo perspiciatis accusamus
-            minima maiores placeat rerum similique suscipit ut numquam mollitia
-            laudantium dolor pariatur. At, dolore autem repellendus modi quam
-            temporibus doloremque amet laboriosam delectus quas pariatur quaerat
-            sed iste quis praesentium possimus, optio veritatis distinctio.
-            Rerum cupiditate quaerat eligendi sunt obcaecati magnam pariatur
-            voluptatibus laboriosam fugit ea officiis suscipit asperiores
-            exercitationem quas quos, mollitia perferendis atque natus, quasi
-            doloremque accusantium tempora iure doloribus maiores. Odio,
-            doloremque.
+            Drawing from more than three decades of experience under the UAE
+            Copier, MPS Company has emerged as the foremost managed service
+            provider in the UAE, working in partnership with organizations
+            across various key industries in the country. This extensive
+            experience equips MPS Company with the expertise and insights needed
+            to craft tailored solutions perfectly suited to the specific
+            business landscape in which you operate.
           </p>
         </div>
 
