@@ -28,23 +28,18 @@ export const Services = () => {
         </div>
 
         <div className="container-fluid">
-          <CurrentLocation title="Contact" />
+          <CurrentLocation title="Services" />
 
           <h1 className="text-center pt-5 pb-5">SERVICES</h1>
           <p className="pb-5" style={{ textAlign: 'justify' }}>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Sequi
-            aliquam adipisci vel amet! Debitis tempore, impedit provident
-            facilis, ab dignissimos repellat beatae eum, modi cupiditate sunt
-            laboriosam. Aut veniam ab tempore, quam illo perspiciatis accusamus
-            minima maiores placeat rerum similique suscipit ut numquam mollitia
-            laudantium dolor pariatur. At, dolore autem repellendus modi quam
-            temporibus doloremque amet laboriosam delectus quas pariatur quaerat
-            sed iste quis praesentium possimus, optio veritatis distinctio.
-            Rerum cupiditate quaerat eligendi sunt obcaecati magnam pariatur
-            voluptatibus laboriosam fugit ea officiis suscipit asperiores
-            exercitationem quas quos, mollitia perferendis atque natus, quasi
-            doloremque accusantium tempora iure doloribus maiores. Odio,
-            doloremque.
+            MPS Company stands at the forefront in the realm of Managed Services
+            and Digital Document Services. We merge industry knowledge with a
+            specialized team, ensuring top-tier client support. Our MPS services
+            are adaptable, enabling us to furnish customized solutions,
+            regardless of an organization's size. Within MPS services, you'll
+            find dedicated teams delivering exceptional support, particularly in
+            domains like digital print and production systems, as well as larger
+            strategic accounts.
           </p>
         </div>
 
