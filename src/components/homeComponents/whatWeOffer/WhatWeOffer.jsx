@@ -12,7 +12,7 @@ export const WhatWeOffer = () => {
         <div className="container-fluid mt-5 pt-3">
           <div className="row">
             <div className="col-sm-12 col-md-6 WhatWeOffer-content">
-              <Link className="pb-3 headLine">Benefits</Link>
+              <Link className="pb-3 headLine">Products</Link>
 
               <p>
                 MPS Company holds a top position in Managed Services and Digital

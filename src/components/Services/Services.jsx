@@ -60,7 +60,7 @@ export const Services = () => {
               <h2>UAE Copier</h2>
 
               <p>
-                MPS Company is committed to achieving service Benefits, striving
+                MPS Company is committed to achieving service Products, striving
                 to provide unparalleled client support that enhances your
                 business performance to the fullest.
               </p>
@@ -85,7 +85,7 @@ export const Services = () => {
               <h2>UAE Copier</h2>
 
               <p>
-                MPS Company is committed to achieving service Benefits, striving
+                MPS Company is committed to achieving service Products, striving
                 to provide unparalleled client support that enhances your
                 business performance to the fullest.
               </p>
@@ -110,7 +110,7 @@ export const Services = () => {
               <h2>UAE Copier</h2>
 
               <p>
-                MPS Company is committed to achieving service Benefits, striving
+                MPS Company is committed to achieving service Products, striving
                 to provide unparalleled client support that enhances your
                 business performance to the fullest.
               </p>
@@ -135,7 +135,7 @@ export const Services = () => {
               <h2>UAE Copier</h2>
 
               <p>
-                MPS Company is committed to achieving service Benefits, striving
+                MPS Company is committed to achieving service Products, striving
                 to provide unparalleled client support that enhances your
                 business performance to the fullest.
               </p>
@@ -160,7 +160,7 @@ export const Services = () => {
               <h2>UAE Copier</h2>
 
               <p>
-                MPS Company is committed to achieving service Benefits, striving
+                MPS Company is committed to achieving service Products, striving
                 to provide unparalleled client support that enhances your
                 business performance to the fullest.
               </p>
@@ -185,7 +185,7 @@ export const Services = () => {
               <h2>UAE Copier</h2>
 
               <p>
-                MPS Company is committed to achieving service Benefits, striving
+                MPS Company is committed to achieving service Products, striving
                 to provide unparalleled client support that enhances your
                 business performance to the fullest.
               </p>

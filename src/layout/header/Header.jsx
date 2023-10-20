@@ -66,13 +66,13 @@ export const Header = () => {
                   data-bs-toggle="dropdown"
                   aria-expanded="false"
                 >
-                  Benefits
+                  Products
                 </Link>
 
                 <ul className="dropdown-menu">
                   <li>
-                    <Link to="/benefits" className="dropdown-item" href="#">
-                      About Benefits
+                    <Link to="/products" className="dropdown-item" href="#">
+                      About Products
                     </Link>
                   </li>
                   <li>

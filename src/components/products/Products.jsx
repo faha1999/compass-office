@@ -4,12 +4,12 @@ import { CurrentLocation } from '../../layout/currentLocation/CurrentLocation';
 import { Link } from 'react-router-dom';
 import { AiTwotoneCustomerService } from 'react-icons/ai';
 
-export const Benefits = () => {
+export const Products = () => {
   const bgImg1 =
     'https://images.unsplash.com/photo-1579047917338-a6a69144fe63?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bWFuJTIwdGh1bXBzJTIwdXB8ZW58MHwxfDB8fHww&auto=format&fit=crop&w=500&q=60';
   return (
     <>
-      <div className="Benefits">
+      <div className="Products">
         <div className="pageHero">
           <div className="img w-100 position-relative">
             <img
@@ -19,16 +19,16 @@ export const Benefits = () => {
             />
 
             <div className="content position-absolute">
-              <h1 className="text-white">Find Out The Benefits</h1>
+              <h1 className="text-white">Find Out The Products</h1>
             </div>
           </div>
         </div>
 
         <div className="container-fluid">
-          <Meta title={'Benefits'} />
-          <CurrentLocation title="Benefits" />
+          <Meta title={'Products'} />
+          <CurrentLocation title="Products" />
 
-          <h1 className="text-center pt-5 pb-5">Benefits</h1>
+          <h1 className="text-center pt-5 pb-5">Products</h1>
           <p className="pb-5" style={{ textAlign: 'justify' }}>
             MPS Company excels as a frontrunner in Managed Services and Digital
             Document Services. Our approach melds industry proficiency with a
@@ -58,7 +58,7 @@ export const Benefits = () => {
               <h2>UAE Copier</h2>
 
               <p>
-                MPS Company is committed to achieving service Benefits, striving
+                MPS Company is committed to achieving service Products, striving
                 to provide unparalleled client support that enhances your
                 business performance to the fullest.
               </p>
@@ -83,7 +83,7 @@ export const Benefits = () => {
               <h2>UAE Copier</h2>
 
               <p>
-                MPS Company is committed to achieving service Benefits, striving
+                MPS Company is committed to achieving service Products, striving
                 to provide unparalleled client support that enhances your
                 business performance to the fullest.
               </p>
@@ -108,7 +108,7 @@ export const Benefits = () => {
               <h2>UAE Copier</h2>
 
               <p>
-                MPS Company is committed to achieving service Benefits, striving
+                MPS Company is committed to achieving service Products, striving
                 to provide unparalleled client support that enhances your
                 business performance to the fullest.
               </p>
@@ -133,7 +133,7 @@ export const Benefits = () => {
               <h2>UAE Copier</h2>
 
               <p>
-                MPS Company is committed to achieving service Benefits, striving
+                MPS Company is committed to achieving service Products, striving
                 to provide unparalleled client support that enhances your
                 business performance to the fullest.
               </p>
@@ -158,7 +158,7 @@ export const Benefits = () => {
               <h2>UAE Copier</h2>
 
               <p>
-                MPS Company is committed to achieving service Benefits, striving
+                MPS Company is committed to achieving service Products, striving
                 to provide unparalleled client support that enhances your
                 business performance to the fullest.
               </p>
@@ -183,7 +183,7 @@ export const Benefits = () => {
               <h2>UAE Copier</h2>
 
               <p>
-                MPS Company is committed to achieving service Benefits, striving
+                MPS Company is committed to achieving service Products, striving
                 to provide unparalleled client support that enhances your
                 business performance to the fullest.
               </p>
