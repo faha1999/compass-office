@@ -9,7 +9,7 @@ export const FooterMiddle = () => {
       <div className="FooterMiddle">
         <div className="container-fluid pt-4 pb-4">
           <div className="row">
-            <div className="col-md-4 col-sm-12">
+            <div className="col-md-6 col-sm-12">
               <img src={logo} alt="logo" />
 
               <p className="text-white pt-3">
@@ -24,7 +24,7 @@ export const FooterMiddle = () => {
               </p>
             </div>
 
-            <div className="col-md-4 col-sm-12 pt-xs-5 pt-sm-5 pt-md-0">
+            {/* <div className="col-md-4 col-sm-12 pt-xs-5 pt-sm-5 pt-md-0">
               <h1 className="text-white">RECENT POST</h1>
 
               <Link className="d-flex justify-content-between recentPostContent pt-3">
@@ -56,9 +56,9 @@ export const FooterMiddle = () => {
                   <Link className="date">Sep 20, 2023</Link>
                 </div>
               </Link>
-            </div>
+            </div> */}
 
-            <div className="col-md-4 col-sm-12 contactForm pt-xs-5 pt-sm-5 pt-md-0">
+            <div className="col-md-6 col-sm-12 contactForm pt-xs-5 pt-sm-5 pt-md-0">
               <h1 className="text-white">EMAIL US</h1>
 
               <div className="form-floating mb-3 mt-3">

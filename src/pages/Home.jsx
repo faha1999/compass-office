@@ -16,7 +16,7 @@ export const Home = () => {
       <WhyUs />
       <WhatWeOffer />
       <Subscription />
-      <LatestNews />
+      {/* <LatestNews /> */}
     </>
   );
 };
