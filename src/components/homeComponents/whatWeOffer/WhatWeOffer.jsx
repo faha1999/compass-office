@@ -12,7 +12,7 @@ export const WhatWeOffer = () => {
         <div className="container-fluid mt-5 pt-3">
           <div className="row">
             <div className="col-sm-12 col-md-6 WhatWeOffer-content">
-              <Link className="pb-3 headLine">Excellence</Link>
+              <Link className="pb-3 headLine">Benefits</Link>
 
               <p>
                 MPS Company holds a top position in Managed Services and Digital
@@ -27,10 +27,10 @@ export const WhatWeOffer = () => {
             </div>
 
             <div className="col-sm-12 col-md-6 WhatWeOffer-content pt-xs-5">
-              <Link className="pb-3 headLine">Versatility</Link>
+              <Link className="pb-3 headLine">Technology</Link>
 
               <p>
-                Our versatility lies in MPS's ability to select from top-tier
+                Our technology lies in MPS's ability to select from top-tier
                 brands in the print, copy, and scan sector. Coupled with our
                 proficiency in on-site device.....
                 <Link className="readMore">Read More</Link>
@@ -45,7 +45,7 @@ export const WhatWeOffer = () => {
 
           <div className="row mt-5">
             <div className="col-sm-12 col-md-6 WhatWeOffer-content pt-xs-5">
-              <Link className="pb-3 headLine">Dominance</Link>
+              <Link className="pb-3 headLine">Services</Link>
 
               <p>
                 MPS Company holds a dominant position in the field of Managed
@@ -60,7 +60,7 @@ export const WhatWeOffer = () => {
             </div>
 
             <div className="col-sm-12 col-md-6 WhatWeOffer-content pt-xs-5">
-              <Link className="pb-3 headLine">Supremacy</Link>
+              <Link className="pb-3 headLine">Expertise</Link>
 
               <p>
                 With over three decades of expertise, operating under the UAE
