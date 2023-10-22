@@ -81,7 +81,7 @@ export const Header = () => {
                       className="dropdown-item"
                       href="#"
                     >
-                      Another action
+                      Catalog
                     </Link>
                   </li>
                   <li>
@@ -90,7 +90,7 @@ export const Header = () => {
                       className="dropdown-item"
                       href="#"
                     >
-                      Something else here
+                      wholesale
                     </Link>
                   </li>
                 </ul>
