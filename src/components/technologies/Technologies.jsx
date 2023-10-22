@@ -3,6 +3,7 @@ import { Meta } from '../../layout/currentLocation/Meta';
 import { CurrentLocation } from '../../layout/currentLocation/CurrentLocation';
 import { Link } from 'react-router-dom';
 import { AiTwotoneCustomerService } from 'react-icons/ai';
+import ourTechnology from '../../assets/images/slider/slider2.png';
 
 export const Technologies = () => {
   const bgImg1 =
@@ -15,11 +16,7 @@ export const Technologies = () => {
       <div className="technologies">
         <div className="pageHero">
           <div className="img w-100 position-relative">
-            <img
-              className="w-100"
-              src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8dGVjaG5vbG9neXxlbnwwfDB8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60"
-              alt="About"
-            />
+            <img className="w-100" src={ourTechnology} alt="About" />
 
             <div className="content position-absolute">
               <h1 className="text-white">

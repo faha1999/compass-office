@@ -1,5 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
+import aboutUs from '../../../assets/images/aboutUs.png';
 
 export const About = () => {
   return (
@@ -26,9 +27,10 @@ export const About = () => {
             <div
               className="col-sm-12 col-md-4"
               style={{
-                backgroundImage:
-                  'url(https://images.unsplash.com/photo-1531545514256-b1400bc00f31?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8YWJvdXQlMjB1c3xlbnwwfDB8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60)',
+                backgroundImage: `url(${aboutUs})`,
                 borderRadius: '1rem',
+                backgroundSize: 'cover',
+                backgroundPosition: 'center',
               }}
             >
               <div className="about-text text-center">

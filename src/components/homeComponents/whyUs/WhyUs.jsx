@@ -1,14 +1,14 @@
 import React from 'react';
-import whyUs from '../../../assets/images/whyUs.png';
 import { Link } from 'react-router-dom';
+import whyChooseUs from '../../../assets/images/whyChooseUs.jpg';
 
 export const WhyUs = () => {
   return (
     <>
-      <div className="whyUs pt-4 pb-4">
+      <div className="whyUs ">
         <div className="container-fluid">
           <div className="row">
-            <div className="col-sm-12 col-md-6">
+            <div className="col-sm-12 col-md-6 pt-4 pb-4">
               <div>
                 <h1 className="text-center pt-5">WHY CHOOSE US ?</h1>
 
@@ -68,7 +68,7 @@ export const WhyUs = () => {
               </div>
             </div>
             <div className="col-sm-12 col-md-6 d-xs-none d-sm-none d-md-block">
-              <img src={whyUs} className="image" alt="whyUs" />
+              <img src={whyChooseUs} className="image h-100" alt="whyUs" />
             </div>
           </div>
         </div>

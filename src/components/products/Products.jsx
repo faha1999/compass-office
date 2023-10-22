@@ -3,6 +3,7 @@ import { Meta } from '../../layout/currentLocation/Meta';
 import { CurrentLocation } from '../../layout/currentLocation/CurrentLocation';
 import { Link } from 'react-router-dom';
 import { AiTwotoneCustomerService } from 'react-icons/ai';
+import ourProduct from '../../assets/images/slider/slider3.png';
 
 export const Products = () => {
   const bgImg1 =
@@ -12,11 +13,7 @@ export const Products = () => {
       <div className="Products">
         <div className="pageHero">
           <div className="img w-100 position-relative">
-            <img
-              className="w-100"
-              src="https://images.unsplash.com/photo-1516321497487-e288fb19713f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8cHJvZmVzc2lvbmFsfGVufDB8MHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60"
-              alt="About"
-            />
+            <img className="w-100" src={ourProduct} alt="our Product" />
 
             <div className="content position-absolute">
               <h1 className="text-white">Find Out The Products</h1>

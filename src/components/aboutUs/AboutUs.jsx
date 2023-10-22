@@ -1,5 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
+import aboutUs from '../../assets/images/aboutUs.png';
 
 export const AboutUs = () => {
   return (
@@ -7,11 +8,7 @@ export const AboutUs = () => {
       <div className="AboutUs">
         <div className="pageHero">
           <div className="img w-100 position-relative">
-            <img
-              className="w-100"
-              src="https://plus.unsplash.com/premium_photo-1672997189763-7002561b5e29?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8cHJvZmVzc2lvbmFsfGVufDB8MHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60"
-              alt="About"
-            />
+            <img className="w-100" src={aboutUs} alt="About" />
 
             <div className="content position-absolute">
               <h1 className="text-white">Who We Are</h1>
