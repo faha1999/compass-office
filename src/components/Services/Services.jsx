@@ -3,6 +3,7 @@ import { Meta } from '../../layout/currentLocation/Meta';
 import { CurrentLocation } from '../../layout/currentLocation/CurrentLocation';
 import { Link } from 'react-router-dom';
 import { AiTwotoneCustomerService } from 'react-icons/ai';
+import services from '../../assets/images/Services.webp';
 
 export const Services = () => {
   const bgImg1 =
@@ -15,11 +16,7 @@ export const Services = () => {
       <div className="services">
         <div className="pageHero">
           <div className="img w-100 position-relative">
-            <img
-              className="w-100"
-              src="https://plus.unsplash.com/premium_photo-1680037568964-6d0ccae595d6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fHByaW50aW5nfGVufDB8MHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60"
-              alt="About"
-            />
+            <img className="w-100" src={services} alt="services" />
 
             <div className="content position-absolute">
               <h1 className="text-white">Extensive Printing Services</h1>
