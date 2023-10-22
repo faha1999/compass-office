@@ -4,6 +4,7 @@ import { Autoplay, Pagination } from 'swiper/modules';
 import slider1 from '../../../assets/images/slider/slider1.png';
 import slider2 from '../../../assets/images/slider/slider2.png';
 import slider3 from '../../../assets/images/slider/slider3.png';
+import slider4 from '../../../assets/images/slider/slider4.png';
 
 export const Hero = () => {
   return (
@@ -14,7 +15,7 @@ export const Hero = () => {
         }}
         modules={[Autoplay, Pagination]}
         autoplay={{
-          delay: 2500,
+          delay: 3500,
           disableOnInteraction: false,
         }}
         className="mySwiper hero"
@@ -63,7 +64,7 @@ export const Hero = () => {
         <SwiperSlide
           className="bg-image"
           style={{
-            backgroundImage: `url(${slider1})`,
+            backgroundImage: `url(${slider4})`,
           }}
         >
           <div className="hero-text">

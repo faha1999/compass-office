@@ -21,3 +21,13 @@
     }
   }
 }
+
+@media screen and (max-width: 767px) {
+  .hero {
+    .hero-text {
+      h1 {
+        font-size: 3rem;
+      }
+    }
+  }
+}

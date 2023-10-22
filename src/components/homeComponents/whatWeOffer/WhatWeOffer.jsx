@@ -1,5 +1,9 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
+import products from '../../../assets/images/Products.webp';
+import Technology from '../../../assets/images/Technology.webp';
+import Service from '../../../assets/images/Service.webp';
+import expertise from '../../../assets/images/expertise.webp';
 
 export const WhatWeOffer = () => {
   return (
@@ -20,10 +24,7 @@ export const WhatWeOffer = () => {
                 <Link className="readMore">Read More</Link>
               </p>
 
-              <img
-                src="https://plus.unsplash.com/premium_photo-1661486977235-b8c3eeafbefa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8SVQlMjBzdWNjZXNzJTIwY2VsZWJyYXRpb258ZW58MHwwfDB8fHww&auto=format&fit=crop&w=500&q=60"
-                alt="TECHNOLOGIES"
-              />
+              <img src={products} alt="products" />
             </div>
 
             <div className="col-sm-12 col-md-6 WhatWeOffer-content pt-xs-5">
@@ -36,10 +37,7 @@ export const WhatWeOffer = () => {
                 <Link className="readMore">Read More</Link>
               </p>
 
-              <img
-                src="https://plus.unsplash.com/premium_photo-1661486977235-b8c3eeafbefa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8SVQlMjBzdWNjZXNzJTIwY2VsZWJyYXRpb258ZW58MHwwfDB8fHww&auto=format&fit=crop&w=500&q=60"
-                alt="TECHNOLOGIES"
-              />
+              <img src={Technology} alt="TECHNOLOGIES" />
             </div>
           </div>
 
@@ -53,10 +51,7 @@ export const WhatWeOffer = () => {
                 knowledge with..... <Link className="readMore">Read More</Link>
               </p>
 
-              <img
-                src="https://plus.unsplash.com/premium_photo-1661486977235-b8c3eeafbefa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8SVQlMjBzdWNjZXNzJTIwY2VsZWJyYXRpb258ZW58MHwwfDB8fHww&auto=format&fit=crop&w=500&q=60"
-                alt="TECHNOLOGIES"
-              />
+              <img src={Service} alt="TECHNOLOGIES" />
             </div>
 
             <div className="col-sm-12 col-md-6 WhatWeOffer-content pt-xs-5">
@@ -68,10 +63,7 @@ export const WhatWeOffer = () => {
                 provider..... <Link className="readMore">Read More</Link>
               </p>
 
-              <img
-                src="https://plus.unsplash.com/premium_photo-1661486977235-b8c3eeafbefa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8SVQlMjBzdWNjZXNzJTIwY2VsZWJyYXRpb258ZW58MHwwfDB8fHww&auto=format&fit=crop&w=500&q=60"
-                alt="TECHNOLOGIES"
-              />
+              <img src={expertise} alt="TECHNOLOGIES" />
             </div>
           </div>
         </div>
