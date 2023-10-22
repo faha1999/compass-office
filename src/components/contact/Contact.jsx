@@ -29,7 +29,7 @@ export const Contact = () => {
         <div className="container-fluid contactDetails pt-5">
           <div className="row">
             <div className="col-12 contactInfo">
-              <h1 className="text-center pb-5">About Us</h1>
+              {/* <h1 className="text-center pb-5">About Us</h1>
               <p>
                 Welcome to UAE Copier - Your Premier Managed Printing Service
                 Provider in Dubai! <br />
@@ -57,7 +57,7 @@ export const Contact = () => {
                 <strong>Dedicated Support:</strong> Our team is our strength.
                 Comprised of seasoned professionals, we guarantee prompt
                 responses and effective solutions tailored to your requirements.
-              </p>
+              </p> */}
 
               <h5 className="pt-3 fw-bold">Get In Touch</h5>
 
