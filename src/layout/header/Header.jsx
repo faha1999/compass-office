@@ -76,12 +76,8 @@ export const Header = () => {
                     </Link>
                   </li>
                   <li>
-                    <Link
-                      to="another-action"
-                      className="dropdown-item"
-                      href="#"
-                    >
-                      Catalogue
+                    <Link to="/top-products" className="dropdown-item" href="#">
+                      Top Product
                     </Link>
                   </li>
                   <li>

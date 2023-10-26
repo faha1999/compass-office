@@ -10,6 +10,7 @@ import { Technologies } from './components/technologies/Technologies';
 import { Expertise } from './components/expertise/Expertise';
 // import { News } from './components/news/News';
 import { UnderContraction } from './pages/UnderContraction';
+import { TopProduct } from './components/products/TopProduct';
 
 export const App = () => {
   return (
@@ -21,6 +22,7 @@ export const App = () => {
             <Route path="/contact" element={<Contact />} />
             <Route path="/about-us" element={<AboutUs />} />
             <Route path="/products" element={<Products />} />
+            <Route path="/top-products" element={<TopProduct />} />
             <Route path="/services" element={<Services />} />
             <Route path="/technologies" element={<Technologies />} />
             <Route path="/expertise" element={<Expertise />} />
