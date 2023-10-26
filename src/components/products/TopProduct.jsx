@@ -20,39 +20,39 @@ export const TopProduct = () => {
 
         <div className="row">
           <div className="col-sm-12 col-md-4 pb-5">
-            <img src={product1} alt="product1" />
+            <img src={product1} alt="product1" loading="lazy" />
           </div>
 
           <div className="col-sm-12 col-md-4 pb-5">
-            <img src={product2} alt="product1" />
+            <img src={product2} alt="product1" loading="lazy" />
           </div>
 
           <div className="col-sm-12 col-md-4 pb-5">
-            <img src={product3} alt="product1" />
+            <img src={product3} alt="product1" loading="lazy" />
           </div>
 
           <div className="col-sm-12 col-md-4 pb-5">
-            <img src={product4} alt="product1" />
+            <img src={product4} alt="product1" loading="lazy" />
           </div>
 
           <div className="col-sm-12 col-md-4 pb-5">
-            <img src={product5} alt="product1" />
+            <img src={product5} alt="product1" loading="lazy" />
           </div>
 
           <div className="col-sm-12 col-md-4 pb-5">
-            <img src={product6} alt="product1" />
+            <img src={product6} alt="product1" loading="lazy" />
           </div>
 
           <div className="col-sm-12 col-md-4 pb-5">
-            <img src={product7} alt="product1" />
+            <img src={product7} alt="product1" loading="lazy" />
           </div>
 
           <div className="col-sm-12 col-md-4 pb-5">
-            <img src={product8} alt="product1" />
+            <img src={product8} alt="product1" loading="lazy" />
           </div>
 
           <div className="col-sm-12 col-md-4 pb-5">
-            <img src={product9} alt="product1" />
+            <img src={product9} alt="product1" loading="lazy" />
           </div>
         </div>
       </div>
