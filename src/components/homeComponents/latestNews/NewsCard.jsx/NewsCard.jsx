@@ -10,7 +10,7 @@ export const NewsCard = () => {
           alt="News Card"
         />
 
-        <h1 className="pt-3">New MPS Consumables..</h1>
+        <h1 className="pt-3">New Compass Office Consumables..</h1>
 
         <p>
           Lorem, ipsum dolor sit amet consectetur adipisicing elit. Harum maxime

@@ -35,7 +35,7 @@ export const Contact = () => {
                 Provider in Dubai! <br />
                 <br />
                 Established in the heart of Deira, Compass Office has solidified its
-                position as a leading Managed Printing Service (MPS) provider in
+                position as a leading Managed Printing Service (Compass Office) provider in
                 Dubai. With an unyielding commitment to exceptional service, we
                 take pride in ensuring your printing needs are not just met, but
                 exceeded.
@@ -49,7 +49,7 @@ export const Contact = () => {
               </p>
               <p className="pt-1">
                 <strong>Cutting-edge Technology:</strong> We stay abreast of the
-                latest technological advancements in the MPS industry. This
+                latest technological advancements in the Compass Office industry. This
                 ensures that you always have access to the most efficient,
                 secure, and eco-friendly printing solutions.
               </p>

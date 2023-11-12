@@ -2,6 +2,8 @@ import React from 'react';
 import logo from '../../../assets/images/logo.png';
 import { Link } from 'react-router-dom';
 // import { FiAirplay } from 'react-icons/fi';
+import mpsChoice from '../../../assets/images/mps-choice.jpg';
+import platinumColor from '../../../assets/images/platinumColor.jpg';
 
 export const FooterMiddle = () => {
   return (
@@ -17,11 +19,20 @@ export const FooterMiddle = () => {
                 Service Provider in Dubai!
                 <br /> <br />
                 Established in the heart of Deira, Compass Office has solidified
-                its position as a leading Managed Printing Service (MPS)
-                provider in Dubai. With an unyielding commitment to exceptional
-                service, we take pride in ensuring your printing needs are not
-                just met, but exceeded.
+                its position as a leading Managed Printing Service (Compass
+                Office) provider in Dubai. With an unyielding commitment to
+                exceptional service, we take pride in ensuring your printing
+                needs are not just met, but exceeded.
               </p>
+
+              <div className="row">
+                <div className="col-6 mini-logo">
+                  <img src={mpsChoice} alt="mpsChoice" />
+                </div>
+                <div className="col-6 mini-logo">
+                  <img src={platinumColor} alt="platinumColor" />
+                </div>
+              </div>
             </div>
 
             {/* <div className="col-md-4 col-sm-12 pt-xs-5 pt-sm-5 pt-md-0">

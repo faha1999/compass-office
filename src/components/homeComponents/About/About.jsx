@@ -39,16 +39,17 @@ export const About = () => {
             </div>
 
             <div className="col-sm-12 col-md-4 text-center pt-xs-5">
-              <h2 className="pb-2">MPS</h2>
+              <h2 className="pb-2">Compass Office</h2>
               <p className="pb-2">
-                MPS Company operates within the framework of Compass Office,
+                Compass Office operates within the framework of Compass Office,
                 which has empowered us to embrace a distinctive strategy and
                 harness the knowledge gained from this affiliation. As an
                 autonomous provider of print, document, and process technology,
-                MPS Company stands out through our multi-vendor print technology
-                and service approach. We meticulously oversee our clients'
-                operations to ensure maximum uptime and provide solutions that
-                allow us to offer a unique array of services in the UAE.
+                Compass Office stands out through our multi-vendor print
+                technology and service approach. We meticulously oversee our
+                clients' operations to ensure maximum uptime and provide
+                solutions that allow us to offer a unique array of services in
+                the UAE.
               </p>
 
               <Link className="learnMore">Learn More</Link>

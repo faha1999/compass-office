@@ -27,14 +27,15 @@ export const Products = () => {
 
           <h1 className="text-center pt-5 pb-5">Products</h1>
           <p className="pb-5" style={{ textAlign: 'justify' }}>
-            MPS Company excels as a frontrunner in Managed Services and Digital
-            Document Services. Our approach melds industry proficiency with a
-            team of specialists dedicated to offering top-notch client support.
-            The versatility of our MPS services empowers us to provide tailored
-            solutions, irrespective of the organization's scale. Within the
-            realm of MPS services, you'll find dedicated teams delivering
-            exceptional support in vital areas, including digital print
-            production and strategic initiatives of larger scope.
+            Compass Office excels as a frontrunner in Managed Services and
+            Digital Document Services. Our approach melds industry proficiency
+            with a team of specialists dedicated to offering top-notch client
+            support. The versatility of our Compass Office services empowers us
+            to provide tailored solutions, irrespective of the organization's
+            scale. Within the realm of Compass Office services, you'll find
+            dedicated teams delivering exceptional support in vital areas,
+            including digital print production and strategic initiatives of
+            larger scope.
           </p>
         </div>
 
@@ -55,9 +56,9 @@ export const Products = () => {
               <h2>Compass Office</h2>
 
               <p>
-                MPS Company is committed to achieving service Products, striving
-                to provide unparalleled client support that enhances your
-                business performance to the fullest.
+                Compass Office is committed to achieving service Products,
+                striving to provide unparalleled client support that enhances
+                your business performance to the fullest.
               </p>
 
               <Link className="learnMore">Learn More</Link>
@@ -80,9 +81,9 @@ export const Products = () => {
               <h2>Compass Office</h2>
 
               <p>
-                MPS Company is committed to achieving service Products, striving
-                to provide unparalleled client support that enhances your
-                business performance to the fullest.
+                Compass Office is committed to achieving service Products,
+                striving to provide unparalleled client support that enhances
+                your business performance to the fullest.
               </p>
 
               <Link className="learnMore">Learn More</Link>
@@ -105,9 +106,9 @@ export const Products = () => {
               <h2>Compass Office</h2>
 
               <p>
-                MPS Company is committed to achieving service Products, striving
-                to provide unparalleled client support that enhances your
-                business performance to the fullest.
+                Compass Office is committed to achieving service Products,
+                striving to provide unparalleled client support that enhances
+                your business performance to the fullest.
               </p>
 
               <Link className="learnMore">Learn More</Link>
@@ -130,9 +131,9 @@ export const Products = () => {
               <h2>Compass Office</h2>
 
               <p>
-                MPS Company is committed to achieving service Products, striving
-                to provide unparalleled client support that enhances your
-                business performance to the fullest.
+                Compass Office is committed to achieving service Products,
+                striving to provide unparalleled client support that enhances
+                your business performance to the fullest.
               </p>
 
               <Link className="learnMore">Learn More</Link>
@@ -155,9 +156,9 @@ export const Products = () => {
               <h2>Compass Office</h2>
 
               <p>
-                MPS Company is committed to achieving service Products, striving
-                to provide unparalleled client support that enhances your
-                business performance to the fullest.
+                Compass Office is committed to achieving service Products,
+                striving to provide unparalleled client support that enhances
+                your business performance to the fullest.
               </p>
 
               <Link className="learnMore">Learn More</Link>
@@ -180,9 +181,9 @@ export const Products = () => {
               <h2>Compass Office</h2>
 
               <p>
-                MPS Company is committed to achieving service Products, striving
-                to provide unparalleled client support that enhances your
-                business performance to the fullest.
+                Compass Office is committed to achieving service Products,
+                striving to provide unparalleled client support that enhances
+                your business performance to the fullest.
               </p>
 
               <Link className="learnMore">Learn More</Link>

@@ -60,7 +60,7 @@ export const WhyUs = () => {
                   <Link>Autonomy</Link>
 
                   <p>
-                    As an autonomous entity, MPS Company selects optimal
+                    As an autonomous entity, Compass Office selects optimal
                     hardware and software solutions to fulfill customer
                     requirements and preferences.
                   </p>

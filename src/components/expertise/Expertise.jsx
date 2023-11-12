@@ -35,11 +35,11 @@ export const Expertise = () => {
           <h1 className="text-center pt-5 pb-5">EXPERTISE</h1>
           <p className="pb-5" style={{ textAlign: 'justify' }}>
             Drawing from more than three decades of experience under the UAE
-            Copier, MPS Company has emerged as the foremost managed service
+            Copier, Compass Office has emerged as the foremost managed service
             provider in the UAE, working in partnership with organizations
             across various key industries in the country. This extensive
-            experience equips MPS Company with the expertise and insights needed
-            to craft tailored solutions perfectly suited to the specific
+            experience equips Compass Office with the expertise and insights
+            needed to craft tailored solutions perfectly suited to the specific
             business landscape in which you operate.
           </p>
         </div>
@@ -61,7 +61,7 @@ export const Expertise = () => {
               <h2>Compass Office</h2>
 
               <p>
-                MPS Company is committed to achieving service excellence,
+                Compass Office is committed to achieving service excellence,
                 striving to provide unparalleled client support that enhances
                 your business performance to the fullest.
               </p>
@@ -86,7 +86,7 @@ export const Expertise = () => {
               <h2>Compass Office</h2>
 
               <p>
-                MPS Company is committed to achieving service excellence,
+                Compass Office is committed to achieving service excellence,
                 striving to provide unparalleled client support that enhances
                 your business performance to the fullest.
               </p>
@@ -111,7 +111,7 @@ export const Expertise = () => {
               <h2>Compass Office</h2>
 
               <p>
-                MPS Company is committed to achieving service excellence,
+                Compass Office is committed to achieving service excellence,
                 striving to provide unparalleled client support that enhances
                 your business performance to the fullest.
               </p>
@@ -136,7 +136,7 @@ export const Expertise = () => {
               <h2>Compass Office</h2>
 
               <p>
-                MPS Company is committed to achieving service excellence,
+                Compass Office is committed to achieving service excellence,
                 striving to provide unparalleled client support that enhances
                 your business performance to the fullest.
               </p>
@@ -161,7 +161,7 @@ export const Expertise = () => {
               <h2>Compass Office</h2>
 
               <p>
-                MPS Company is committed to achieving service excellence,
+                Compass Office is committed to achieving service excellence,
                 striving to provide unparalleled client support that enhances
                 your business performance to the fullest.
               </p>
@@ -186,7 +186,7 @@ export const Expertise = () => {
               <h2>Compass Office</h2>
 
               <p>
-                MPS Company is committed to achieving service excellence,
+                Compass Office is committed to achieving service excellence,
                 striving to provide unparalleled client support that enhances
                 your business performance to the fullest.
               </p>

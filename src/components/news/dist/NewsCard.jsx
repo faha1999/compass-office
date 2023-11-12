@@ -12,7 +12,7 @@ export const NewsCard = () => {
           />
         </div>
         <div className="col-sm-12 col-md-8 pt-xs-5 pt-sm-3 pb-3">
-          <h1>New MPS Consumables</h1>
+          <h1>New Compass Office Consumables</h1>
 
           <p>
             Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eius
