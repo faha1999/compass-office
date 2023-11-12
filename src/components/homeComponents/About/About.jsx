@@ -9,16 +9,16 @@ export const About = () => {
         <div className="container-fluid">
           <div className="row">
             <div className="col-sm-12 col-md-4 text-center pb-xs-5">
-              <h2 className="pb-2">UAE Copier</h2>
+              <h2 className="pb-2">Compass Office</h2>
               <p className="pb-2">
-                Having a rich 30-year history of achievements, UAE Copier has
-                solidified its position as one of the region's multifaceted
+                Having a rich 30-year history of achievements, Compass Office
+                has solidified its position as one of the region's multifaceted
                 business conglomerates. Collaborating with like-minded partners,
                 the company actively pursues sustainable and lucrative
                 investment prospects in both the private and public sectors.
                 These endeavors not only deliver maximum value to stakeholders
                 but also foster sustainable development in the communities where
-                UAE Copier conducts its operations.
+                Compass Office conducts its operations.
               </p>
 
               <Link className="learnMore">Learn More</Link>
@@ -41,14 +41,14 @@ export const About = () => {
             <div className="col-sm-12 col-md-4 text-center pt-xs-5">
               <h2 className="pb-2">MPS</h2>
               <p className="pb-2">
-                MPS Company operates within the framework of UAE Copier, which
-                has empowered us to embrace a distinctive strategy and harness
-                the knowledge gained from this affiliation. As an autonomous
-                provider of print, document, and process technology, MPS Company
-                stands out through our multi-vendor print technology and service
-                approach. We meticulously oversee our clients' operations to
-                ensure maximum uptime and provide solutions that allow us to
-                offer a unique array of services in the UAE.
+                MPS Company operates within the framework of Compass Office,
+                which has empowered us to embrace a distinctive strategy and
+                harness the knowledge gained from this affiliation. As an
+                autonomous provider of print, document, and process technology,
+                MPS Company stands out through our multi-vendor print technology
+                and service approach. We meticulously oversee our clients'
+                operations to ensure maximum uptime and provide solutions that
+                allow us to offer a unique array of services in the UAE.
               </p>
 
               <Link className="learnMore">Learn More</Link>

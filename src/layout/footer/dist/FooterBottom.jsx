@@ -9,7 +9,7 @@ export const FooterBottom = () => {
       <div className="row FooterBottom pb-4 pt-4">
         <div className="col-sm-12 col-md-4">
           <p className="mb-0 text-white text-sm-center">
-            &copy; <strong>uaecopier</strong> {new Date().getFullYear()} All
+            &copy; <strong>compassoffice</strong> {new Date().getFullYear()} All
             write reserved
           </p>
         </div>

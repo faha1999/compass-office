@@ -52,7 +52,7 @@ export const Products = () => {
             <div className="text-center learnMoreCard">
               <AiTwotoneCustomerService />
 
-              <h2>UAE Copier</h2>
+              <h2>Compass Office</h2>
 
               <p>
                 MPS Company is committed to achieving service Products, striving
@@ -77,7 +77,7 @@ export const Products = () => {
             <div className="text-center learnMoreCard">
               <AiTwotoneCustomerService />
 
-              <h2>UAE Copier</h2>
+              <h2>Compass Office</h2>
 
               <p>
                 MPS Company is committed to achieving service Products, striving
@@ -102,7 +102,7 @@ export const Products = () => {
             <div className="text-center learnMoreCard">
               <AiTwotoneCustomerService />
 
-              <h2>UAE Copier</h2>
+              <h2>Compass Office</h2>
 
               <p>
                 MPS Company is committed to achieving service Products, striving
@@ -127,7 +127,7 @@ export const Products = () => {
             <div className="text-center learnMoreCard">
               <AiTwotoneCustomerService />
 
-              <h2>UAE Copier</h2>
+              <h2>Compass Office</h2>
 
               <p>
                 MPS Company is committed to achieving service Products, striving
@@ -152,7 +152,7 @@ export const Products = () => {
             <div className="text-center learnMoreCard">
               <AiTwotoneCustomerService />
 
-              <h2>UAE Copier</h2>
+              <h2>Compass Office</h2>
 
               <p>
                 MPS Company is committed to achieving service Products, striving
@@ -177,7 +177,7 @@ export const Products = () => {
             <div className="text-center learnMoreCard">
               <AiTwotoneCustomerService />
 
-              <h2>UAE Copier</h2>
+              <h2>Compass Office</h2>
 
               <p>
                 MPS Company is committed to achieving service Products, striving

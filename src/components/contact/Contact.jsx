@@ -31,16 +31,16 @@ export const Contact = () => {
             <div className="col-12 contactInfo">
               {/* <h1 className="text-center pb-5">About Us</h1>
               <p>
-                Welcome to UAE Copier - Your Premier Managed Printing Service
+                Welcome to Compass Office - Your Premier Managed Printing Service
                 Provider in Dubai! <br />
                 <br />
-                Established in the heart of Deira, UAE Copier has solidified its
+                Established in the heart of Deira, Compass Office has solidified its
                 position as a leading Managed Printing Service (MPS) provider in
                 Dubai. With an unyielding commitment to exceptional service, we
                 take pride in ensuring your printing needs are not just met, but
                 exceeded.
               </p>
-              <h5 className="pt-3 fw-bold">Why Choose UAE Copier?</h5>
+              <h5 className="pt-3 fw-bold">Why Choose Compass Office?</h5>
               <p className="pt-1">
                 <strong>Local Expertise:</strong> Being headquartered in Dubai,
                 we possess an intrinsic understanding of the unique needs of
@@ -63,10 +63,10 @@ export const Contact = () => {
 
               <p className="pt-1">
                 Whether you are looking to optimize your printing environment,
-                reduce costs, or simply seeking expert advice, UAE Copier is
+                reduce costs, or simply seeking expert advice, Compass Office is
                 here for you. Contact us today and experience unparalleled
                 service. <br />
-                <br /> At UAE Copier, we believe in forging long-lasting
+                <br /> At Compass Office, we believe in forging long-lasting
                 relationships. Let’s embark on this journey together.
               </p>
               <p className="pt-1">
@@ -84,8 +84,8 @@ export const Contact = () => {
               <h2 className="fw-bold pt-3 pb-3">We Are Here</h2>
 
               <p>
-                UAE Copier 36, 7 states buiding, Deira , Dubai, UAE, P.O box:
-                380750
+                Compass Office 36, 7 states buiding, Deira , Dubai, UAE, P.O
+                box: 380750
               </p>
             </div>
 
@@ -100,15 +100,15 @@ export const Contact = () => {
               </p>
 
               <p>
-                <a href="mailto:info@uaecopier.ae">info@uaecopier.ae</a>
+                <a href="mailto:info@compassoffice.ae">info@compassoffice.ae</a>
               </p>
 
               <p>
-                <a href="mailto:info@uaecopier.ae">info@uaecopier.ae</a>
+                <a href="mailto:info@compassoffice.ae">info@compassoffice.ae</a>
               </p>
 
               <p>
-                <a href="mailto:info@uaecopier.ae">info@uaecopier.ae</a>
+                <a href="mailto:info@compassoffice.ae">info@compassoffice.ae</a>
               </p>
             </div>
 

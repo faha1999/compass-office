@@ -19,7 +19,8 @@ export const FooterTop = () => {
                 <MdLocationPin />
 
                 <p>
-                  Address: UAE Copier 36, 7 states buiding, Deira , Dubai, UAE,
+                  Address: Compass Office 36, 7 states buiding, Deira , Dubai,
+                  UAE,
                   <br />
                   P.O box: 380750
                 </p>
@@ -45,7 +46,9 @@ export const FooterTop = () => {
 
                   <p>
                     Email:{' '}
-                    <a href="mailto:info@uaecopier.ae">info@uaecopier.ae</a>
+                    <a href="mailto:info@compassoffice.ae">
+                      info@compassoffice.ae
+                    </a>
                   </p>
                 </div>
               </div>

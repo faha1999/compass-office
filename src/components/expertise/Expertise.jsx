@@ -58,7 +58,7 @@ export const Expertise = () => {
             <div className="text-center learnMoreCard">
               <AiTwotoneCustomerService />
 
-              <h2>UAE Copier</h2>
+              <h2>Compass Office</h2>
 
               <p>
                 MPS Company is committed to achieving service excellence,
@@ -83,7 +83,7 @@ export const Expertise = () => {
             <div className="text-center learnMoreCard">
               <AiTwotoneCustomerService />
 
-              <h2>UAE Copier</h2>
+              <h2>Compass Office</h2>
 
               <p>
                 MPS Company is committed to achieving service excellence,
@@ -108,7 +108,7 @@ export const Expertise = () => {
             <div className="text-center learnMoreCard">
               <AiTwotoneCustomerService />
 
-              <h2>UAE Copier</h2>
+              <h2>Compass Office</h2>
 
               <p>
                 MPS Company is committed to achieving service excellence,
@@ -133,7 +133,7 @@ export const Expertise = () => {
             <div className="text-center learnMoreCard">
               <AiTwotoneCustomerService />
 
-              <h2>UAE Copier</h2>
+              <h2>Compass Office</h2>
 
               <p>
                 MPS Company is committed to achieving service excellence,
@@ -158,7 +158,7 @@ export const Expertise = () => {
             <div className="text-center learnMoreCard">
               <AiTwotoneCustomerService />
 
-              <h2>UAE Copier</h2>
+              <h2>Compass Office</h2>
 
               <p>
                 MPS Company is committed to achieving service excellence,
@@ -183,7 +183,7 @@ export const Expertise = () => {
             <div className="text-center learnMoreCard">
               <AiTwotoneCustomerService />
 
-              <h2>UAE Copier</h2>
+              <h2>Compass Office</h2>
 
               <p>
                 MPS Company is committed to achieving service excellence,
