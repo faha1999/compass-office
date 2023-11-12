@@ -58,115 +58,40 @@ export const Header = () => {
                 </Link>
               </li>
 
-              <li className="nav-item dropdown">
+              <li className="nav-item">
                 <Link
-                  className="nav-link dropdown-toggle"
+                  to="/products"
+                  className="nav-link"
+                  aria-current="page"
                   href="#"
-                  role="button"
-                  data-bs-toggle="dropdown"
-                  aria-expanded="false"
                 >
                   Products
                 </Link>
-
-                <ul className="dropdown-menu">
-                  <li>
-                    <Link to="/products" className="dropdown-item" href="#">
-                      About Products
-                    </Link>
-                  </li>
-                  <li>
-                    <Link to="/top-products" className="dropdown-item" href="#">
-                      Top Product
-                    </Link>
-                  </li>
-                  <li>
-                    <Link
-                      to="something-else-here"
-                      className="dropdown-item"
-                      href="#"
-                    >
-                      Wholesale
-                    </Link>
-                  </li>
-                </ul>
               </li>
 
-              <li className="nav-item dropdown">
+              <li className="nav-item">
                 <Link
-                  className="nav-link dropdown-toggle"
+                  to="services"
+                  className="nav-link"
+                  aria-current="page"
                   href="#"
-                  role="button"
-                  data-bs-toggle="dropdown"
-                  aria-expanded="false"
                 >
                   Services
                 </Link>
-                <ul className="dropdown-menu">
-                  <li>
-                    <Link to="services" className="dropdown-item" href="#">
-                      Our Services
-                    </Link>
-                  </li>
-                  <li>
-                    <Link
-                      to="another-action"
-                      className="dropdown-item"
-                      href="#"
-                    >
-                      Another action
-                    </Link>
-                  </li>
-                  <li>
-                    <Link
-                      to="something-else-here"
-                      className="dropdown-item"
-                      href="#"
-                    >
-                      Something else here
-                    </Link>
-                  </li>
-                </ul>
               </li>
 
-              <li className="nav-item dropdown">
+              <li className="nav-item">
                 <Link
-                  className="nav-link dropdown-toggle"
+                  to="/technologies"
+                  className="nav-link"
+                  aria-current="page"
                   href="#"
-                  role="button"
-                  data-bs-toggle="dropdown"
-                  aria-expanded="false"
                 >
                   Technology
                 </Link>
-                <ul className="dropdown-menu">
-                  <li>
-                    <Link to="/technologies" className="dropdown-item" href="#">
-                      Our Technology
-                    </Link>
-                  </li>
-                  <li>
-                    <Link
-                      to="another-action"
-                      className="dropdown-item"
-                      href="#"
-                    >
-                      Another action
-                    </Link>
-                  </li>
-                  <li>
-                    <Link
-                      to="something-else-here"
-                      className="dropdown-item"
-                      href="#"
-                    >
-                      Something else here
-                    </Link>
-                  </li>
-                </ul>
               </li>
 
-              <li className="nav-item dropdown">
+              {/* <li className="nav-item dropdown">
                 <Link
                   className="nav-link dropdown-toggle"
                   href="#"
@@ -201,7 +126,7 @@ export const Header = () => {
                     </Link>
                   </li>
                 </ul>
-              </li>
+              </li> */}
 
               {/* <li className="nav-item">
                 <Link to="/news" className="nav-link" href="#">
