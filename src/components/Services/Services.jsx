@@ -28,7 +28,7 @@ export const Services = () => {
           <CurrentLocation title="Services" />
 
           <h1 className="text-center pt-5 pb-5">SERVICES</h1>
-          <p className="pb-5" style={{ textAlign: 'justify' }}>
+          <p className="pb-3" style={{ textAlign: 'justify' }}>
             At Compass Office, we specialize in providing high-quality imaging
             supplies for Copier/MFP equipment, catering to the diverse needs of
             rental, outsourcing, and Managed Print Services (MPS) businesses.
@@ -37,7 +37,7 @@ export const Services = () => {
             demands of our clients.
           </p>
 
-          <h5>Our Specialties</h5>
+          <h5 className="pb-3">Our Specialties</h5>
 
           <p>
             <strong>Compatible Imaging Supplies: </strong> We offer a wide range
