@@ -36,6 +36,35 @@ export const Services = () => {
             Copier/MFP devices, ensuring that every product meets the unique
             demands of our clients.
           </p>
+
+          <h5>Our Specialties</h5>
+
+          <p>
+            <strong>Compatible Imaging Supplies: </strong> We offer a wide range
+            of compatible imaging supplies, ensuring seamless compatibility with
+            various copier and printer models.
+          </p>
+          <p>
+            <strong>Printing Consumables: </strong> Our extensive collection of
+            printing consumables is designed to enhance print quality and
+            efficiency, tailored to meet the high standards of professional
+            environments.
+          </p>
+          <p>
+            <strong>Copier Cartridges & Toner: </strong> We provide premium
+            quality copier cartridges and toners, engineered to deliver
+            exceptional print clarity and longevity.
+          </p>
+          <p>
+            <strong>Toner Cartridges: </strong> Our toner cartridges are crafted
+            to produce high-quality prints consistently, suitable for a range of
+            printing tasks.
+          </p>
+          <p>
+            <strong>Copier Drum Units: </strong> Our copier drum units are
+            designed for durability and precision, ensuring optimal performance
+            of your copier devices.
+          </p>
         </div>
       </div>
     </>
