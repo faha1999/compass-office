@@ -8,7 +8,7 @@ export const AboutUs = () => {
       <div className="AboutUs">
         <div className="pageHero">
           <div className="img w-100 position-relative">
-            <img className="w-100" src={aboutUs} alt="About" />
+            <img className="w-100" src={aboutUs} alt="About" loading="lazy" />
 
             <div className="content position-absolute">
               <h1 className="text-white">Who We Are</h1>
@@ -40,6 +40,7 @@ export const AboutUs = () => {
               <img
                 src="https://images.unsplash.com/photo-1508385082359-f38ae991e8f2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cHJvZmVzc2lvbmFsfGVufDB8MXwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60"
                 alt="About"
+                loading="lazy"
               />
             </div>
             <div className="col-sm-12 col-md-4 text-center pb-5">

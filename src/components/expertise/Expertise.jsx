@@ -19,6 +19,7 @@ export const Expertise = () => {
               className="w-100"
               src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8dGVjaG5vbG9neXxlbnwwfDB8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60"
               alt="About"
+              loading="lazy"
             />
 
             <div className="content position-absolute">

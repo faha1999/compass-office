@@ -9,6 +9,7 @@ export const NewsCard = () => {
           <img
             src="https://images.unsplash.com/photo-1625276254563-f0fbbf66a5e7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y2FibGV8ZW58MHwwfDB8fHww&auto=format&fit=crop&w=500&q=60"
             alt="news-image"
+            loading="lazy"
           />
         </div>
         <div className="col-sm-12 col-md-8 pt-xs-5 pt-sm-3 pb-3">

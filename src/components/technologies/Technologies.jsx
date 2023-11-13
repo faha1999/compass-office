@@ -16,7 +16,12 @@ export const Technologies = () => {
       <div className="technologies">
         <div className="pageHero">
           <div className="img w-100 position-relative">
-            <img className="w-100" src={ourTechnology} alt="About" />
+            <img
+              className="w-100"
+              src={ourTechnology}
+              alt="About"
+              loading="lazy"
+            />
 
             <div className="content position-absolute">
               <h1 className="text-white">

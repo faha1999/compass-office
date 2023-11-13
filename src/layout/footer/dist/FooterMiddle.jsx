@@ -2,8 +2,8 @@ import React from 'react';
 import logo from '../../../assets/images/logo.png';
 import { Link } from 'react-router-dom';
 // import { FiAirplay } from 'react-icons/fi';
-import mpsChoice from '../../../assets/images/mps-choice.jpg';
-import platinumColor from '../../../assets/images/platinumColor.jpg';
+import mpsChoice from '../../../assets/images/mps-choice.png';
+import platinumColor from '../../../assets/images/platinumColor.png';
 
 export const FooterMiddle = () => {
   return (
@@ -12,7 +12,7 @@ export const FooterMiddle = () => {
         <div className="container-fluid pt-4 pb-4">
           <div className="row">
             <div className="col-md-6 col-sm-12">
-              <img src={logo} alt="logo" />
+              <img src={logo} alt="logo" loading="lazy" />
 
               <p className="text-white pt-3">
                 Welcome to Compass Office - Your Premier Managed Printing
@@ -27,10 +27,10 @@ export const FooterMiddle = () => {
 
               <div className="row">
                 <div className="col-6 mini-logo">
-                  <img src={mpsChoice} alt="mpsChoice" />
+                  <img src={mpsChoice} alt="mpsChoice" loading="lazy" />
                 </div>
                 <div className="col-6 mini-logo">
-                  <img src={platinumColor} alt="platinumColor" />
+                  <img src={platinumColor} alt="platinumColor" loading="lazy" />
                 </div>
               </div>
             </div>

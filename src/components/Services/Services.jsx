@@ -16,7 +16,12 @@ export const Services = () => {
       <div className="services">
         <div className="pageHero">
           <div className="img w-100 position-relative">
-            <img className="w-100" src={services} alt="services" />
+            <img
+              className="w-100"
+              src={services}
+              alt="services"
+              loading="lazy"
+            />
 
             <div className="content position-absolute">
               <h1 className="text-white">Extensive Printing Services</h1>

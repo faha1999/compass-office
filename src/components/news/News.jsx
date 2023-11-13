@@ -18,6 +18,7 @@ export const News = () => {
               className="w-100"
               src="https://images.unsplash.com/photo-1508921340878-ba53e1f016ec?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8bmV3c3xlbnwwfDB8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60"
               alt="About"
+              loading="lazy"
             />
 
             <div className="content position-absolute">

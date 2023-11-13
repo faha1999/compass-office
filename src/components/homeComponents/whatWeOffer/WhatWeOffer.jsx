@@ -24,7 +24,7 @@ export const WhatWeOffer = () => {
                 <Link className="readMore">Read More</Link>
               </p>
 
-              <img src={products} alt="products" />
+              <img src={products} alt="products" loading="lazy" />
             </div>
 
             <div className="col-sm-12 col-md-6 WhatWeOffer-content pt-xs-5">
@@ -37,7 +37,7 @@ export const WhatWeOffer = () => {
                 <Link className="readMore">Read More</Link>
               </p>
 
-              <img src={Technology} alt="TECHNOLOGIES" />
+              <img src={Technology} alt="TECHNOLOGIES" loading="lazy" />
             </div>
           </div>
 
@@ -51,7 +51,7 @@ export const WhatWeOffer = () => {
                 knowledge with..... <Link className="readMore">Read More</Link>
               </p>
 
-              <img src={Service} alt="TECHNOLOGIES" />
+              <img src={Service} alt="TECHNOLOGIES" loading="lazy" />
             </div>
 
             <div className="col-sm-12 col-md-6 WhatWeOffer-content pt-xs-5">
@@ -63,7 +63,7 @@ export const WhatWeOffer = () => {
                 provider..... <Link className="readMore">Read More</Link>
               </p>
 
-              <img src={expertise} alt="TECHNOLOGIES" />
+              <img src={expertise} alt="TECHNOLOGIES" loading="lazy" />
             </div>
           </div>
         </div>

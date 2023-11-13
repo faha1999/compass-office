@@ -68,7 +68,12 @@ export const WhyUs = () => {
               </div>
             </div>
             <div className="col-sm-12 col-md-6 d-xs-none d-sm-none d-md-block">
-              <img src={whyChooseUs} className="image h-100" alt="whyUs" />
+              <img
+                src={whyChooseUs}
+                className="image h-100"
+                alt="whyUs"
+                loading="lazy"
+              />
             </div>
           </div>
         </div>

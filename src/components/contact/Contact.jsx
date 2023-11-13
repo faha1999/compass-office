@@ -15,6 +15,7 @@ export const Contact = () => {
               className="w-100"
               src="https://plus.unsplash.com/premium_photo-1682309667112-971fb0622b55?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzN8fGNvbnRhY3R8ZW58MHwwfDB8fHww&auto=format&fit=crop&w=500&q=60"
               alt="contact"
+              loading="lazy"
             />
 
             <div className="content position-absolute">
@@ -29,36 +30,6 @@ export const Contact = () => {
         <div className="container-fluid contactDetails pt-5">
           <div className="row">
             <div className="col-12 contactInfo">
-              {/* <h1 className="text-center pb-5">About Us</h1>
-              <p>
-                Welcome to Compass Office - Your Premier Managed Printing Service
-                Provider in Dubai! <br />
-                <br />
-                Established in the heart of Deira, Compass Office has solidified its
-                position as a leading Managed Printing Service (Compass Office) provider in
-                Dubai. With an unyielding commitment to exceptional service, we
-                take pride in ensuring your printing needs are not just met, but
-                exceeded.
-              </p>
-              <h5 className="pt-3 fw-bold">Why Choose Compass Office?</h5>
-              <p className="pt-1">
-                <strong>Local Expertise:</strong> Being headquartered in Dubai,
-                we possess an intrinsic understanding of the unique needs of
-                local businesses. Our location at 36, 7 states building, Deira,
-                positions us strategically to serve you swiftly and efficiently.
-              </p>
-              <p className="pt-1">
-                <strong>Cutting-edge Technology:</strong> We stay abreast of the
-                latest technological advancements in the Compass Office industry. This
-                ensures that you always have access to the most efficient,
-                secure, and eco-friendly printing solutions.
-              </p>
-              <p className="pt-1">
-                <strong>Dedicated Support:</strong> Our team is our strength.
-                Comprised of seasoned professionals, we guarantee prompt
-                responses and effective solutions tailored to your requirements.
-              </p> */}
-
               <h5 className="pt-3 fw-bold">Get In Touch</h5>
 
               <p className="pt-1">
