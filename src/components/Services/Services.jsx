@@ -4,9 +4,6 @@ import { CurrentLocation } from '../../layout/currentLocation/CurrentLocation';
 import services from '../../assets/images/Services.webp';
 
 export const Services = () => {
-  const bgImg1 =
-    'https://images.unsplash.com/photo-1579047917338-a6a69144fe63?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bWFuJTIwdGh1bXBzJTIwdXB8ZW58MHwxfDB8fHww&auto=format&fit=crop&w=500&q=60';
-
   return (
     <>
       <Meta title={'Services us'} />

@@ -11,7 +11,10 @@ export const Header = () => {
 
   return (
     <>
-      <navbar className="navbar navbar-expand-lg text-white">
+      <navbar
+        className="navbar navbar-expand-lg text-white position-sticky"
+        style={{ top: '0rem' }}
+      >
         <div className="container-fluid">
           <Link to="/" className="navbar-brand d-flex" href="#">
             <img className="logo" src={logo} alt="compassoffice" />{' '}
