@@ -35,11 +35,11 @@ export const FooterTop = () => {
                   </p>
                 </div>
 
-                <div className="d-flex">
+                {/* <div className="d-flex">
                   <FaFax />
 
                   <p>Fax: +000 1 2345 6789</p>
-                </div>
+                </div> */}
 
                 <div className="d-flex">
                   <MdEmail />

@@ -19,7 +19,7 @@ export const Header = () => {
 
           {/* Toggler */}
           <button
-            className="navbar-toggler"
+            className="navbar-toggler bg-light"
             type="button"
             data-bs-toggle="collapse"
             data-bs-target="#navbarNavDropdown"
