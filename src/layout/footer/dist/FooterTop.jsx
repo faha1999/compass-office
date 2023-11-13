@@ -1,7 +1,6 @@
 import React from 'react';
 import { MdEmail, MdLocationPin } from 'react-icons/md';
 import { BsFillTelephoneFill } from 'react-icons/bs';
-import { FaFax } from 'react-icons/fa';
 
 import { AiOutlineTwitter } from 'react-icons/ai';
 import { BiLogoFacebook, BiLogoLinkedin } from 'react-icons/bi';
@@ -34,12 +33,6 @@ export const FooterTop = () => {
                     Phone: <a href="tel:+971501726313">+971 50 172 6313</a>
                   </p>
                 </div>
-
-                {/* <div className="d-flex">
-                  <FaFax />
-
-                  <p>Fax: +000 1 2345 6789</p>
-                </div> */}
 
                 <div className="d-flex">
                   <MdEmail />

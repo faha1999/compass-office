@@ -1,8 +1,6 @@
 import React from 'react';
 import { Meta } from '../../layout/currentLocation/Meta';
 import { CurrentLocation } from '../../layout/currentLocation/CurrentLocation';
-import { Link } from 'react-router-dom';
-import { AiTwotoneCustomerService } from 'react-icons/ai';
 import services from '../../assets/images/Services.webp';
 
 export const Services = () => {

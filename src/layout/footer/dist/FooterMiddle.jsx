@@ -35,40 +35,6 @@ export const FooterMiddle = () => {
               </div>
             </div>
 
-            {/* <div className="col-md-4 col-sm-12 pt-xs-5 pt-sm-5 pt-md-0">
-              <h1 className="text-white">RECENT POST</h1>
-
-              <Link className="d-flex justify-content-between recentPostContent pt-3">
-                <div className="img">
-                  <FiAirplay />
-                </div>
-
-                <div>
-                  <p className="text-white">
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                    Dolorum aperiam sunt, aut minus quae laborum.
-                  </p>
-
-                  <Link className="date">Sep 20, 2023</Link>
-                </div>
-              </Link>
-
-              <Link className="d-flex justify-content-between recentPostContent pt-3">
-                <div className="img">
-                  <FiAirplay />
-                </div>
-
-                <div>
-                  <p className="text-white">
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                    Dolorum aperiam sunt, aut minus quae laborum.
-                  </p>
-
-                  <Link className="date">Sep 20, 2023</Link>
-                </div>
-              </Link>
-            </div> */}
-
             <div className="col-md-6 col-sm-12 contactForm pt-xs-5 pt-sm-5 pt-md-0">
               <h1 className="text-white">EMAIL US</h1>
 
