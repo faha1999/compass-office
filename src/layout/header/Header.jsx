@@ -13,8 +13,11 @@ export const Header = () => {
     <>
       <navbar className="navbar navbar-expand-lg text-white">
         <div className="container-fluid">
-          <Link to="/" className="navbar-brand" href="#">
-            <img className="logo" src={logo} alt="compassoffice" />
+          <Link to="/" className="navbar-brand d-flex" href="#">
+            <img className="logo" src={logo} alt="compassoffice" />{' '}
+            <span className="ps-2 fw-bolder text-white pt-2">
+              Compass Office
+            </span>
           </Link>
 
           {/* Toggler */}
