@@ -1,13 +1,13 @@
 .hr {
   width: 8rem;
   height: 0.324rem;
-  background-color: var(--black-soft);
+  background-color: var(--green);
   margin: auto;
   opacity: 1;
 }
 
 .readMore {
-  color: var(--skyBlue-light);
+  color: var(--green);
   font-weight: 700;
 }
 
@@ -25,6 +25,7 @@
       font-size: 3.25rem;
       font-weight: 700;
       text-align: center;
+      color: var(--green) !important;
     }
   }
 }
@@ -48,7 +49,7 @@
 
   svg {
     font-size: 5rem;
-    color: var(--skyBlue-light);
+    color: var(--green);
     margin: 0 auto;
   }
 }
@@ -57,7 +58,7 @@
   padding-top: 3rem;
   svg {
     font-size: 10rem;
-    fill: var(--skyBlue-light);
+    fill: var(--green);
   }
 
   h1 {

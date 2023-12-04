@@ -12,7 +12,7 @@ footer {
   }
 
   a {
-    color: var(--skyBlue-light);
+    color: var(--green);
 
     &:hover {
       text-decoration: underline;
@@ -35,7 +35,7 @@ footer {
 }
 
 .FooterMiddle {
-  background-color: var(--black-dark);
+  background-color: var(--white);
 
   h1 {
     font-size: 1.625rem;
@@ -49,10 +49,11 @@ footer {
 
   p {
     text-align: justify;
+    color: var(--black-dark);
   }
 
-  .mini-logo{
-    img{
+  .mini-logo {
+    img {
       width: 7rem;
       height: 7rem;
     }
@@ -67,7 +68,7 @@ footer {
         background-color: var(--white);
         padding: 1rem;
         border-radius: 50%;
-        color: var(--skyBlue-light);
+        color: var(--green);
       }
     }
 
@@ -91,22 +92,28 @@ footer {
       }
     }
     input {
-      background-color: var(--black-dark) !important;
-      color: var(--white);
+      background-color: var(--offWhite) !important;
+      color: var(--green);
       outline: none;
       height: 2rem;
       // background-color: transparent;
     }
 
     label {
-      color: var(--white);
+      color: var(--green);
       background-color: transparent !important;
+    }
+
+    textarea {
+      background-color: var(--offWhite) !important;
+      color: var(--green);
+      outline: none;
     }
   }
 
   .button {
     width: 100%;
-    background-color: var(--skyBlue-light);
+    background-color: var(--green);
     text-align: center;
     color: var(--white);
     padding: 0.5rem 0;
@@ -121,19 +128,19 @@ footer {
 }
 
 .FooterBottom {
-  background-color: var(--black-soft);
+  background-color: var(--offWhite);
 
   svg {
     &:hover {
-      color: var(--skyBlue-light);
+      color: var(--green);
     }
   }
 
   a {
-    color: var(--white);
+    color: var(--black-dark);
 
     &:hover {
-      color: var(--skyBlue-light);
+      color: var(--green);
     }
   }
 }

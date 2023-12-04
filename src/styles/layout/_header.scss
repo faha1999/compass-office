@@ -1,5 +1,5 @@
 .navbar {
-  background-color: var(--black-soft);
+  background-color: var(--white);
 
   .logo {
     width: 14rem;
@@ -7,7 +7,8 @@
   }
 
   .nav-link {
-    color: var(--white);
+    color: var(--green);
+    font-weight: 400;
 
     &:focus,
     &:focus-visible {
@@ -15,8 +16,8 @@
     }
 
     &.active {
-      color: var(--skyBlue-light);
-      font-weight: 500;
+      color: var(--green);
+      font-weight: 600;
     }
   }
 }

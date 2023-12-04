@@ -14,7 +14,7 @@ export const FooterMiddle = () => {
             <div className="col-md-6 col-sm-12">
               <img src={logo} alt="logo" loading="lazy" />
 
-              <p className="text-white pt-3">
+              <p className="pt-3">
                 Welcome to Compass Office - Your Premier Managed Printing
                 Service Provider in Dubai!
                 <br /> <br />

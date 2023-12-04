@@ -11,7 +11,7 @@
     }
 
     svg {
-      fill: var(--skyBlue-light);
+      fill: var(--green);
     }
 
     &:hover {
@@ -20,7 +20,7 @@
       transition: 0.4s ease-in-out;
 
       h1 {
-        color: var(--skyBlue-light);
+        color: var(--green);
         transition: 0.4s ease-in-out;
       }
     }
