@@ -1,10 +1,10 @@
 import React from 'react';
 import { Swiper, SwiperSlide } from 'swiper/react';
 import { Autoplay, Pagination } from 'swiper/modules';
-import slider1 from '../../../assets/images/slider/slider1.png';
-import slider2 from '../../../assets/images/slider/slider2.png';
-import slider3 from '../../../assets/images/slider/slider3.png';
-import slider4 from '../../../assets/images/slider/slider4.png';
+import slider1 from '../../../assets/images/slider/slider1.jpeg';
+import slider2 from '../../../assets/images/slider/slider2.jpeg';
+import slider3 from '../../../assets/images/slider/slider3.jpeg';
+import slider4 from '../../../assets/images/slider/slider4.jpeg';
 
 export const Hero = () => {
   return (

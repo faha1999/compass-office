@@ -1,7 +1,7 @@
 import React from 'react';
 import { Meta } from '../../layout/currentLocation/Meta';
 import { CurrentLocation } from '../../layout/currentLocation/CurrentLocation';
-import ourTechnology from '../../assets/images/slider/slider2.png';
+import ourTechnology from '../../assets/images/slider/slider2.jpeg';
 
 export const Technologies = () => {
   return (

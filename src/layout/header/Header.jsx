@@ -18,9 +18,6 @@ export const Header = () => {
         <div className="container-fluid">
           <Link to="/" className="navbar-brand d-flex" href="#">
             <img className="logo" src={logo} alt="compassoffice" />{' '}
-            <span className="ps-2 fw-bolder text-white pt-2">
-              Compass Office
-            </span>
           </Link>
 
           {/* Toggler */}
