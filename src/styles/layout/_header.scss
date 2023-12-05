@@ -1,9 +1,10 @@
 .navbar {
   background-color: var(--white);
+  box-shadow: rgba(0, 0, 0, 0.45) 0px 25px 20px -20px;
 
   .logo {
-    width: 14rem;
-    height: 4rem;
+    width: 209.6px;
+    height: 91px;
   }
 
   .nav-link {
@@ -15,7 +16,7 @@
       color: var(--offWhite);
     }
 
-    &.active {
+    &.activePage {
       color: var(--green);
       font-weight: 600;
     }

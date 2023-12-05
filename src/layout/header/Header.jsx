@@ -1,9 +1,10 @@
 import React, { useState } from 'react';
-import { Link } from 'react-router-dom';
+import { Link, useLocation } from 'react-router-dom';
 import logo from '../../assets/images/logo.png';
 
 export const Header = () => {
   const [isVisible, setIsVisible] = useState(true);
+  const location = useLocation();
 
   const toggleVisibility = () => {
     setIsVisible(!isVisible);
@@ -17,7 +18,7 @@ export const Header = () => {
       >
         <div className="container-fluid">
           <Link to="/" className="navbar-brand d-flex" href="#">
-            <img className="logo" src={logo} alt="compassoffice" />{' '}
+            <img className="logo" src={logo} alt="compassOffice" />
           </Link>
 
           {/* Toggler */}
@@ -42,7 +43,11 @@ export const Header = () => {
               <li className="nav-item">
                 <Link
                   to="/"
-                  className="nav-link active"
+                  className={
+                    location.pathname === '/'
+                      ? 'activePage nav-link'
+                      : 'nav-link'
+                  }
                   aria-current="page"
                   href="#"
                 >
@@ -53,7 +58,11 @@ export const Header = () => {
               <li className="nav-item">
                 <Link
                   to="about-us"
-                  className="nav-link"
+                  className={
+                    location.pathname === '/about-us'
+                      ? 'activePage nav-link'
+                      : 'nav-link'
+                  }
                   aria-current="page"
                   href="#"
                 >
@@ -64,7 +73,11 @@ export const Header = () => {
               <li className="nav-item">
                 <Link
                   to="/products"
-                  className="nav-link"
+                  className={
+                    location.pathname === '/products'
+                      ? 'activePage nav-link'
+                      : 'nav-link'
+                  }
                   aria-current="page"
                   href="#"
                 >
@@ -75,7 +88,11 @@ export const Header = () => {
               <li className="nav-item">
                 <Link
                   to="services"
-                  className="nav-link"
+                  className={
+                    location.pathname === '/services'
+                      ? 'activePage nav-link'
+                      : 'nav-link'
+                  }
                   aria-current="page"
                   href="#"
                 >
@@ -86,7 +103,11 @@ export const Header = () => {
               <li className="nav-item">
                 <Link
                   to="/technologies"
-                  className="nav-link"
+                  className={
+                    location.pathname === '/technologies'
+                      ? 'activePage nav-link'
+                      : 'nav-link'
+                  }
                   aria-current="page"
                   href="#"
                 >
@@ -138,7 +159,15 @@ export const Header = () => {
               </li> */}
 
               <li className="nav-item">
-                <Link to="/contact" className="nav-link" href="#">
+                <Link
+                  to="/contact"
+                  className={
+                    location.pathname === '/contact'
+                      ? 'activePage nav-link'
+                      : 'nav-link'
+                  }
+                  href="#"
+                >
                   Contact
                 </Link>
               </li>
