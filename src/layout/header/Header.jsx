@@ -87,6 +87,21 @@ export const Header = () => {
 
               <li className="nav-item">
                 <Link
+                  to="/catalogue"
+                  className={
+                    location.pathname === '/catalogue'
+                      ? 'activePage nav-link'
+                      : 'nav-link'
+                  }
+                  aria-current="page"
+                  href="#"
+                >
+                  Catalogue
+                </Link>
+              </li>
+
+              <li className="nav-item">
+                <Link
                   to="services"
                   className={
                     location.pathname === '/services'
