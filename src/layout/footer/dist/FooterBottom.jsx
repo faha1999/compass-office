@@ -12,6 +12,9 @@ export const FooterBottom = () => {
             &copy; <strong>compassoffice</strong> 1986 -{' '}
             {new Date().getFullYear()} All write reserved
           </p>
+
+          <h6 className="pt-3">Useful Links</h6>
+          <a href="https://www.sinopscm.com/">sinopscm</a>
         </div>
 
         <div className="col-sm-12 col-md-4 pb-sm-4 pt-sm-4">

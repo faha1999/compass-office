@@ -18,8 +18,8 @@ export const FooterTop = () => {
                 <MdLocationPin />
 
                 <p>
-                  Address: Compass Office 36, 7 states buiding, Deira , Dubai,
-                  UAE,
+                  Address: Office:117, SAEED BIN THANI BUILDING, Naif, Dubai,
+                  United Arab Emirates
                   <br />
                   P.O box: 380750
                 </p>
@@ -67,6 +67,42 @@ export const FooterTop = () => {
               <Link>
                 <BiLogoLinkedin />
               </Link>
+            </div>
+          </div>
+        </div>
+
+        <div className="pb-4 col-xs-12 col-sm-12 col-md-6">
+          <div class="card mb-3">
+            <div class="card-body">
+              <h5 class="card-title">Ben T.C.</h5>
+              <p class="card-text">Founder</p>
+              <div className="d-flex">
+                <MdEmail />
+
+                <p>
+                  Email:{' '}
+                  <a href="mailto:ben@sp-copier.com">ben@sp-copier.com</a>
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div className="pb-4 col-xs-12 col-sm-12 col-md-6">
+          <div class="card mb-3">
+            <div class="card-body">
+              <h5 class="card-title">Akib Irfan</h5>
+              <p class="card-text">General Manager, Middle East Branch</p>
+              <div className="d-flex">
+                <MdEmail />
+
+                <p>
+                  Email:{' '}
+                  <a href="mailto:akib.irfan@sp-copier.com">
+                    akib.irfan@sp-copier.com
+                  </a>
+                </p>
+              </div>
             </div>
           </div>
         </div>
