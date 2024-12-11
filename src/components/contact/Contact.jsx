@@ -67,20 +67,20 @@ export const Contact = () => {
                 Phone: <a href="tel:+971501726313">+971 50 172 6313</a>
               </p>
               <p>
-                Phone: <a href="tel:+971501726313">+971 50 172 6313</a>
+                Phone: <a href="tel:+971501726313">+971 54 723 0998</a>
               </p>
 
+              <p>
+                <a href="mailto:info@compassoffice.ae">info@compassoffice.ae</a>
+              </p>
+              {/*
               <p>
                 <a href="mailto:info@compassoffice.ae">info@compassoffice.ae</a>
               </p>
 
               <p>
                 <a href="mailto:info@compassoffice.ae">info@compassoffice.ae</a>
-              </p>
-
-              <p>
-                <a href="mailto:info@compassoffice.ae">info@compassoffice.ae</a>
-              </p>
+              </p> */}
             </div>
 
             <div className="pb-4 col-xs-12 col-sm-12 col-md-4 text-center">

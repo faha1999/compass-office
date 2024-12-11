@@ -25,6 +25,16 @@ export const FooterTop = () => {
                 </p>
               </div>
 
+              <div className="col-sm-12 col-md-6 d-flex contactInfo">
+                <MdLocationPin />
+
+                <p>
+                  Sharjah branch: Mariam Alsheikh Mohammad bin Ahmad, Al
+                  Khazraji building - Al Zhara'a St - next to Emirates Post
+                  Sharjah Central Post Office - Al Soor - Sharjah
+                </p>
+              </div>
+
               <div className="col-sm-12 col-md-6 contactInfo">
                 <div className="d-flex">
                   <BsFillTelephoneFill />
@@ -71,7 +81,7 @@ export const FooterTop = () => {
           </div>
         </div>
 
-        <div className="pb-4 col-xs-12 col-sm-12 col-md-6">
+        {/* <div className="pb-4 col-xs-12 col-sm-12 col-md-6">
           <div class="card mb-3">
             <div class="card-body">
               <h5 class="card-title">Ben T.C.</h5>
@@ -105,7 +115,7 @@ export const FooterTop = () => {
               </div>
             </div>
           </div>
-        </div>
+        </div> */}
       </div>
     </>
   );
