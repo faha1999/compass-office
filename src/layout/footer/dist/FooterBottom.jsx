@@ -10,7 +10,7 @@ export const FooterBottom = () => {
         <div className="col-sm-12 col-md-4">
           <p className="mb-0 text-sm-center">
             &copy; <strong>compassoffice</strong> 1986 -{' '}
-            {new Date().getFullYear()} All write reserved
+            {new Date().getFullYear()} All rights reserved
           </p>
 
           <h6 className="pt-3">Useful Links</h6>
