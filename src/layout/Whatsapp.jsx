@@ -5,12 +5,11 @@ export const Whatsapp = () => {
   return (
     <>
       <a
-        href="https://wa.me/message/TTPYHZ2RIFGDF1"
+        href="https://wa.me/971547230998"
         target="_blank"
         rel="noreferrer"
         className="whatsappWrapper"
-        aria-label="WhatsApp"
-      >
+        aria-label="WhatsApp">
         <div className="wrapperDetails">
           <h3>Chat with us</h3>
         </div>
