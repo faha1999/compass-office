@@ -64,10 +64,10 @@ export const Contact = () => {
               <MdConnectWithoutContact />
               <h2 className="fw-bold pt-3 pb-3">Contact Us</h2>
               <p>
-                Phone: <a href="tel:+971501726313">+971 50 172 6313</a>
+                Phone: <a href="tel:+971547230998">+971 54 723 0998</a>
               </p>
               <p>
-                Phone: <a href="tel:+971501726313">+971 54 723 0998</a>
+                Phone: <a href="tel:+971547230998">+971 54 723 0998</a>
               </p>
 
               <p>

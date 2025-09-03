@@ -40,7 +40,7 @@ export const FooterTop = () => {
                   <BsFillTelephoneFill />
 
                   <p>
-                    Phone: <a href="tel:+971501726313">+971 50 172 6313</a>
+                    Phone: <a href="tel:+971547230998">+971 54 723 0998</a>
                   </p>
                 </div>
 
